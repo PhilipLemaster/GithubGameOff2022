@@ -1,0 +1,27 @@
+Things to Do
+
+Regular tasks:
+- Fill coffee
+- Print/File reports
+- Attend meetings
+- Send emails
+- Distribute memo
+- Give presentation to staff
+
+Urgent tasks:
+- Deal with angry client on phone
+- Fire employee for misconduct
+- Send employee home for being sick
+- Handle computer circuit shortage
+
+
+
+Game Mechanics:
+- Top down movement, WASD keys to move. Can use mouse for certain tasks
+
+- Set time limit for tasks to do: 
+	if time runs out, you lose (written up) if this happens 3 times, you're fired
+
+- After each level performance evaluation
+
+- Promotions result in more work for next level
