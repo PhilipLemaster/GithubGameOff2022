@@ -25,3 +25,10 @@ Game Mechanics:
 - After each level performance evaluation
 
 - Promotions result in more work for next level
+
+
+
+Game Tasks:
+- Randomly assign tasks at set intervals
+- Tasks each have an amount of points added
+- If a task if assigned (active) display marker on minimap and glow effect on mesh
