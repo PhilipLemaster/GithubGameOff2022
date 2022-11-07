@@ -1,0 +1,13 @@
+It's Buzziness Time: Task List
+
+Time Tasks
+- Fill coffee -- 3 sec -- 50 points
+- Fire employee for misconduct -- 5 sec -- 80 points
+
+Interactive Tasks
+- Clean out fridge (Click drag expired foods to trash) -- 70 points
+- 
+
+Mission Tasks
+- Print and distribute memo to employees -- 100 points
+- 
