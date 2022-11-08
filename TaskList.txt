@@ -5,8 +5,8 @@ Time Tasks
 - Fire employee for misconduct -- 5 sec -- 80 points
 
 Interactive Tasks
-- Clean out fridge (Click drag expired foods to trash) -- 70 points
-- 
+- Delete all emails -- 100 points
+- Fix computer virus -- 100 points
 
 Mission Tasks
 - Print and distribute memo to employees -- 100 points
