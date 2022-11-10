@@ -1,13 +1,29 @@
 It's Buzziness Time: Task List
 
+FLOOR ONE
+
 Time Tasks
-- Fill coffee -- 3 sec -- 50 points
-- Fire employee for misconduct -- 5 sec -- 80 points
+- Fill coffee -- 3 sec
+- Fire employee for misconduct -- 5 sec
+- Answer the phone (Angry client) -- 6 sec URGENT
 
 Interactive Tasks
-- Delete all emails -- 100 points
-- Fix computer virus -- 100 points
+- Delete all emails
+- Fix computer virus
+- Complete required trainings
 
 Mission Tasks
-- Print and distribute memo to employees -- 100 points
+- Print and distribute memo to employees
 - 
+
+
+
+
+
+
+
+Floor 1 - Normal 
+Floor 2 - 
+Floor 3 - Office Party
+Floor 4 - Danger Division
+Floor 5 - 
