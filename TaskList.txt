@@ -5,7 +5,9 @@ FLOOR ONE
 Time Tasks
 - Fill coffee -- 3 sec
 - Fire employee for misconduct -- 5 sec
-- Answer the phone (Angry client) -- 6 sec URGENT
+- Answer the phone (Angry client) -- 6 sec    URGENT
+- Give Jeff a pep talk -- 4 sec
+- Study for certification exam -- 5 sec
 
 Interactive Tasks
 - Delete all emails
@@ -14,7 +16,8 @@ Interactive Tasks
 
 Mission Tasks
 - Print and distribute memo to employees
-- 
+- Move stinky Andy near the bathroom
+- Pay for the Pizza and bring it to the breakroom    URGENT
 
 
 
