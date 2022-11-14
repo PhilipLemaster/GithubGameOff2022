@@ -1,0 +1,1460 @@
+﻿Log file open, 11/12/22 19:56:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=26984)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ItsBuzzinessTime
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Philip\Documents\Unreal Projects\GithubGameOff2022\ItsBuzzinessTime\ItsBuzzinessTime.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.819] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="88bf46d4443f9723cb39e194b6d9e3ec"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.356763
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-30FB065644785B066B9BE788B4C45139
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.16 seconds
+LogConfig: Display: Loading IOS ini files took 0.18 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.21 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading Android ini files took 0.21 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.22 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogConfig: Display: Loading TVOS ini files took 0.27 seconds
+LogPluginManager: Mounting Engine plugin BackChannel
+LogConfig: Display: Loading Unix ini files took 0.27 seconds
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogConfig: Display: Loading Windows ini files took 0.27 seconds
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogConfig: Display: Loading Linux ini files took 0.28 seconds
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogConfig: Display: Loading LinuxArm64 ini files took 0.28 seconds
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.819] (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.13-00.56.09:122][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.13-00.56.09:122][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.13-00.56.09:122][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.13-00.56.09:122][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.13-00.56.09:122][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.11.13-00.56.09:122][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.11.13-00.56.09:122][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.11.13-00.56.09:122][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.11.13-00.56.09:122][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.13-00.56.09:123][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.13-00.56.09:123][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.13-00.56.09:123][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.13-00.56.09:124][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.13-00.56.09:130][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.13-00.56.09:130][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.13-00.56.09:130][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.13-00.56.09:130][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.13-00.56.09:130][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.13-00.56.09:130][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.13-00.56.09:130][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.13-00.56.09:130][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.13-00.56.09:131][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.13-00.56.09:131][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.13-00.56.09:131][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.13-00.56.09:168][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.13-00.56.09:168][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.13-00.56.09:406][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.13-00.56.09:406][  0]LogD3D12RHI: Adapter has 6009MB of dedicated video memory, 0MB of dedicated system memory, and 8065MB of shared system memory, 1 output[s]
+[2022.11.13-00.56.09:472][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.13-00.56.09:472][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8065MB of shared system memory, 0 output[s]
+[2022.11.13-00.56.09:486][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.13-00.56.09:486][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8065MB of shared system memory, 0 output[s]
+[2022.11.13-00.56.09:487][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.13-00.56.09:487][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.13-00.56.09:487][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.13-00.56.09:488][  0]LogHAL: Display: Platform has ~ 16 GB [16914354176 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.13-00.56.09:488][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.13-00.56.09:488][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.13-00.56.09:488][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.13-00.56.09:489][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.13-00.56.09:489][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.13-00.56.09:489][  0]LogInit: Computer: DESKTOP-91PI83P
+[2022.11.13-00.56.09:491][  0]LogInit: User: Philip
+[2022.11.13-00.56.09:491][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.13-00.56.09:491][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.13-00.56.09:491][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.11.13-00.56.09:491][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.13-00.56.09:491][  0]LogMemory: Process Physical Memory: 288.05 MB used, 293.85 MB peak
+[2022.11.13-00.56.09:491][  0]LogMemory: Process Virtual Memory: 258.50 MB used, 258.50 MB peak
+[2022.11.13-00.56.09:491][  0]LogMemory: Physical Memory: 7860.44 MB used,  8270.35 MB free, 16130.79 MB total
+[2022.11.13-00.56.09:491][  0]LogMemory: Virtual Memory: 10003.02 MB used,  15855.77 MB free, 25858.79 MB total
+[2022.11.13-00.56.09:491][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.13-00.56.09:699][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.13-00.56.09:741][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.13-00.56.09:749][  0]LogInit: Using OS detected language (en-US).
+[2022.11.13-00.56.09:749][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.13-00.56.09:768][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.13-00.56.09:982][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.13-00.56.10:003][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.13-00.56.10:003][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.13-00.56.10:003][  0]LogWindowsTextInputMethodSystem:   - Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.11.13-00.56.10:003][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.11.13-00.56.10:043][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.13-00.56.10:043][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.13-00.56.10:448][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.13-00.56.10:456][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.13-00.56.10:456][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.13-00.56.10:567][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.13-00.56.10:617][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.13-00.56.10:627][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.13-00.56.10:646][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.13-00.56.10:673][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.13-00.56.10:673][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.13-00.56.10:732][  0]LogD3D12RHI:     GPU DeviceId: 0x2560 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.13-00.56.10:732][  0]LogWindows: Attached monitors:
+[2022.11.13-00.56.10:732][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.13-00.56.10:732][  0]LogWindows: Found 1 attached monitors.
+[2022.11.13-00.56.10:732][  0]LogWindows: EnumDisplayDevices:
+[2022.11.13-00.56.10:733][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.13-00.56.10:733][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.11.13-00.56.10:733][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.13-00.56.10:733][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.13-00.56.10:733][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.11.13-00.56.10:734][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.11.13-00.56.10:734][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.11.13-00.56.10:734][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2022.11.13-00.56.10:734][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.11.13-00.56.10:734][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.11.13-00.56.10:734][  0]LogD3D12RHI:   Driver Version: 526.47 (internal:31.0.15.2647, unified:526.47)
+[2022.11.13-00.56.10:734][  0]LogD3D12RHI:      Driver Date: 10-25-2022
+[2022.11.13-00.56.10:734][  0]LogRHI: Texture pool is 3301 MB (70% of 4716 MB)
+[2022.11.13-00.56.10:734][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.13-00.56.10:734][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.13-00.56.10:778][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.13-00.56.10:796][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/ItsBuzzinessTime.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/ItsBuzzinessTime.uproject"  -platform=all'
+[2022.11.13-00.56.10:796][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/ItsBuzzinessTime.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/ItsBuzzinessTime.uproject"  -platform=all" ]
+[2022.11.13-00.56.10:845][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.13-00.56.10:873][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.13-00.56.10:873][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.13-00.56.10:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.13-00.56.10:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.13-00.56.10:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.13-00.56.10:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.13-00.56.10:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.13-00.56.10:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.13-00.56.10:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.13-00.56.10:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.13-00.56.10:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.13-00.56.10:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.13-00.56.10:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.13-00.56.10:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.13-00.56.10:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.13-00.56.10:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.13-00.56.10:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.13-00.56.10:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.13-00.56.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.13-00.56.10:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.13-00.56.10:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.13-00.56.10:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.13-00.56.10:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.13-00.56.10:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.13-00.56.10:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.13-00.56.10:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.13-00.56.10:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.13-00.56.10:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.13-00.56.10:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.13-00.56.10:987][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.13-00.56.11:006][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.13-00.56.11:012][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.13-00.56.11:012][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.13-00.56.11:012][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.13-00.56.11:012][  0]LogTargetPlatformManager:   PCM
+[2022.11.13-00.56.11:018][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.13-00.56.11:018][  0]LogTargetPlatformManager:   BINKA
+[2022.11.13-00.56.11:018][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.13-00.56.11:018][  0]LogTargetPlatformManager:   OGG
+[2022.11.13-00.56.11:018][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.13-00.56.11:018][  0]LogTargetPlatformManager:   OPUS
+[2022.11.13-00.56.11:182][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.13-00.56.11:194][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.13-00.56.11:203][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.13-00.56.11:203][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.13-00.56.11:203][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.13-00.56.11:203][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.13-00.56.11:203][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.13-00.56.11:203][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.13-00.56.11:203][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.13-00.56.11:203][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.13-00.56.11:206][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.13-00.56.11:207][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.13-00.56.11:207][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.13-00.56.11:207][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.13-00.56.11:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.13-00.56.11:215][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.13-00.56.11:215][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.13-00.56.11:215][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.13-00.56.11:240][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.13-00.56.11:241][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.13-00.56.11:241][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.13-00.56.11:255][  0]LogDerivedDataCache: Speed tests for C:/Users/Philip/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.13-00.56.11:255][  0]LogDerivedDataCache: Display: Performance to C:/Users/Philip/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.21ms. RandomReadSpeed=192.69MBs, RandomWriteSpeed=142.21MBs. Assigned SpeedClass 'Local'
+[2022.11.13-00.56.11:256][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Philip/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.13-00.56.11:257][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.13-00.56.11:257][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.13-00.56.11:263][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.13-00.56.11:263][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.13-00.56.11:270][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Intermediate/Shaders/WorkingDirectory/23248/).
+[2022.11.13-00.56.11:270][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Philip/AppData/Local/Temp/UnrealShaderWorkingDir/672E4E83470FF905ED246599C36A3675/'.
+[2022.11.13-00.56.11:271][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.13-00.56.11:271][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.13-00.56.13:341][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.13-00.56.13:341][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.13-00.56.13:344][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.13-00.56.13:411][  0]LogAssetRegistry: FAssetRegistry took 0.0219 seconds to start up
+[2022.11.13-00.56.13:418][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.13-00.56.13:833][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.13-00.56.13:840][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.13-00.56.14:130][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.13-00.56.14:130][  0]LogDeviceProfileManager: Active device profile: [00000637E0BD5780][00000637BDF25000 50] WindowsEditor
+[2022.11.13-00.56.14:130][  0]LogDeviceProfileManager: Profiles: [00000637E0BD5240][00000637D3FC7800 50] Windows, [00000637E0BD5780][00000637BDF25000 50] WindowsEditor, [00000637E0BD4280][00000637D3FF0000 50] WindowsServer, [00000637E0BD1DC0][00000637E0DD0000 50] WindowsClient, [00000637E0BD5940][00000637E0DD5000 50] IOS, [00000637E0BD2BC0][00000637E0DD7800 50] iPadAir2, [00000637E0BD4B40][00000637E0DDC800 50] IPadPro, [00000637E0BD6040][00000637E0DDA000 50] iPadAir3, [00000637E0BD6200][00000637D3FF2800 50] iPadAir4, [00000637E0BD16C0][00000637E0DE0000 50] iPadMini4, [00000637E0BD2300][00000637E0DE5000 50] iPadMini5, [00000637E0BD47C0][00000637E0DE7800 50] iPadMini6, [00000637E0BD8C00][00000637E0DD2800 50] iPhone6S, [00000637E0BD8A40][00000637E0DEC800 50] iPhone7, [00000637E0BD86C0][00000637E0DEA000 50] iPodTouch7, [00000637E0BD24C0][00000637E0E10000 50] iPhone6SPlus, [00000637E0BD1880][00000637E0E15000 50] iPhone7Plus, [00000637E0BD6900][00000637E0E17800 50] iPhoneSE, [00000637E0BD1F80][00000637E0E1A000 50] iPhone8, [00000637E0BD3D40][00000637E0E1C800 50] iPhone8Plus, [00000637E0BD5B00][00000637E0DE2800 50] iPhoneX, [00000637E0BD32C0][00000637E0DF0000 50] iPhoneXS, [00000637E0BD4D00][00000637E0DF5000 50] iPhoneXSMax, [00000637E0BD7E00][00000637E0DF7800 50] iPhoneXR, [00000637E0BD55C0][00000637E0DFA000 50] iPhone11, [00000637E0BD8340][00000637E0DFC800 50] iPhone11Pro, [00000637E0BD3800][00000637E0E12800 50] iPhone11ProMax, [00000637E0BD2F40][00000637E0E20000 50] iPhoneSE2, [00000637E0BD1180][00000637E0E25000 50] iPhone12Mini, [00000637E0BD6580][00000637E0E27800 50] iPhone12, [00000637E0BD3B80][00000637E0E2A000 50] iPhone12Pro, [00000637E0BD3100][00000637E0E2C800 50] iPhone12ProMax, [00000637E0BD2680][00000637E0DF2800 50] iPhone13Mini, [00000637E0BD8880][00000637E0E30000 50] iPhone13, [00000637E0BD7380][00000637E0E35000 50] iPhone13Pro, [00000637E0BD3480][00000637E0E37800 50] iPhone13ProMax, [00000637E0BD7A80][00000637E0E3A000 50] iPadPro105, [00000637E0BD8180][00000637E0E3C800 50] iPadPro129, [00000637E0BD6E40][00000637E0E22800 50] iPadPro97, [00000637E0BD1500][00000637E0E40000 50] iPadPro2_129, [00000637E0BD7FC0][00000637E0E45000 50] iPad5, [00000637E0BD5CC0][00000637E0E47800 50] iPad6, [00000637E0BD7700][00000637E0E4A000 50] iPad7, [00000637E0BD0FC0][00000637E0E4C800 50] iPad8, [00000637E0BD2A00][00000637E0E32800 50] iPad9, [00000637E0BD39C0][00000637E0E50000 50] iPadPro11, [00000637E0BD2840][00000637E0E55000 50] iPadPro2_11, [00000637E0BD1A40][00000637E0E57800 50] iPadPro3_11, [00000637E0BD3640][00000637E0E5A000 50] iPadPro3_129, [00000637E0BD6740][00000637E0E5C800 50] iPadPro4_129, [00000637E0BD7540][00000637E0E42800 50] iPadPro5_129, [00000637E0BD3F00][00000637E0E60000 50] AppleTV, [00000637E0BD8500][00000637E0E65000 50] AppleTV4K, [00000637E0BD4980][00000637E0E67800 50] TVOS, [00000637E0BDB280][00000637E0E6C800 50] Mac, [00000637E0BDB600][00000637E0E6A000 50] MacEditor, [00000637E0BDA640][00000637E0E52800 50] MacClient, [00000637E0BD7000][00000637E0E70000 50] MacServer, [00000637E0BDB0C0][00000637E0E77800 50] Linux, [00000637E0BDAF00][00000637E0E75000 50] LinuxEditor, [00000637E0BD01C0][00000637E0E7A000 50] LinuxArm64Editor, [00000637E0BD8DC0][00000637E0E7C800 50] LinuxArm64, [00000637E0BD9300][00000637E0E62800 50] LinuxClient, [00000637E0BD2140][00000637E0E80000 50] LinuxArm64Client, [00000637E0BD9A00][00000637E0E85000 50] LinuxServer, [00000637E0BD9D80][00000637E0E87800 50] LinuxArm64Server, [00000637E0BD8F80][00000637E0E8A000 50] Android, [00000637E0BD94C0][00000637E0E8C800 50] Android_Preview_OpenGL, [00000637E0BD6C80][00000637E0E72800 50] Android_Preview_Vulkan, [00000637E0BD9F40][00000637E0E90000 50] Android_Low, [00000637E0BD4600][00000637E0E95000 50] Android_Mid, [00000637E0BDAB80][00000637E0E97800 50] Android_High, [00000637E0BD5E80][00000637E0E9A000 50] Android_Default, [00000637E0BD6AC0][00000637E0E9C800 50] Android_Adreno4xx, [00000637E0BD9140][00000637E0E82800 50] Android_Adreno5xx_Low, [00000637E0BDAD40][00000637E0EA0000 50] Android_Adreno5xx, [00000637E0BDA100][00000637E0EA5000 50] Android_Adreno6xx, [00000637E0BD9680][00000637E0EA7800 50] Android_Adreno6xx_Vulkan, [00000637E0BD1C00][00000637E0EAA000 50] Android_Adreno7xx, [00000637E0BDBB40][00000637E0EAC800 50] Android_Adreno7xx_Vulkan, [00000637E0BD9840][00000637E0E92800 50] Android_Mali_T6xx, [00000637E0BDA800][00000637E0EB0000 50] Android_Mali_T7xx, [00000637E0BDA9C0][00000637E0EB5000 50] Android_Mali_T8xx, [00000637E0BD40C0][00000637E0EB7800 50] Android_Mali_G71, [00000637E0BD9BC0][00000637E0EBA000 50] Android_Mali_G72, [00000637E0BD78C0][00000637E0EBC800 50] Android_Mali_G72_Vulkan, [00000637E0BDB7C0][00000637E0EA2800 50] Android_Mali_G76, [00000637E0BDB980][00000637E0EC0000 50] Android_Mali_G76_Vulkan, [00000637E0BDA480][00000637E0EC5000 50] Android_Mali_G77, [00000637E0BDC780][00000637E0EC7800 50] Android_Mali_G77_Vulkan, [00000637E0BDC080][00000637E0ECA000 50] Android_Mali_G78, [00000637E0BDC5C0][00000637E0ECC800 50] Android_Mali_G78_Vulkan, [00000637E0BD7C40][00000637E0EB2800 50] Android_Mali_G710, [00000637E0BDBD00][00000637E0ED0000 50] Android_Mali_G710_Vulkan, [00000637E0BDBEC0][00000637E0ED5000 50] Android_Xclipse_920, [00000637E0BD5080][00000637E0ED7800 50] Android_Xclipse_920_Vulkan, [00000637E0BD4EC0][00000637E0EDA000 50] Android_Vulkan_SM5, [00000637E0BDC400][00000637E0EDC800 50] Android_PowerVR_G6xxx, [00000637E0BDD580][00000637E0EC2800 50] Android_PowerVR_GT7xxx, [00000637E0BD63C0][00000637E0EE0000 50] Android_PowerVR_GE8xxx, [00000637E0BDD740][00000637E0EE5000 50] Android_PowerVR_GM9xxx, [00000637E0BDDAC0][00000637E0EE7800 50] Android_PowerVR_GM9xxx_Vulkan, [00000637E0BDB440][00000637E0EEA000 50] Android_TegraK1, [00000637E0BDD900][00000637E0EEC800 50] Android_Unknown_Vulkan, [00000637E0BD71C0][00000637E0ED2800 50] Oculus_Quest, [00000637E0BD4440][00000637E0EF0000 50] Oculus_Quest2, [00000637E0BDE700][00000637E0EF5000 50] HoloLens, 
+[2022.11.13-00.56.14:130][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.13-00.56.14:137][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.11.13-00.56.14:137][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.11.13-00.56.14:137][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.13-00.56.14:137][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.13-00.56.14:137][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.13-00.56.14:195][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.13-00.56.14:530][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.13-00.56.14:530][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.13-00.56.14:530][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.13-00.56.14:530][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.13-00.56.14:530][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.13-00.56.14:564][  0]LogNetVersion: ItsBuzzinessTime 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2354760363)
+[2022.11.13-00.56.14:808][  0]LogSlate: Border
+[2022.11.13-00.56.14:808][  0]LogSlate: BreadcrumbButton
+[2022.11.13-00.56.14:808][  0]LogSlate: Default
+[2022.11.13-00.56.14:808][  0]LogSlate: Icons.Save
+[2022.11.13-00.56.14:808][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.13-00.56.14:808][  0]LogSlate: ListView
+[2022.11.13-00.56.14:808][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.13-00.56.14:808][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.13-00.56.14:808][  0]LogSlate: TableView.DarkRow
+[2022.11.13-00.56.14:808][  0]LogSlate: TableView.Row
+[2022.11.13-00.56.14:808][  0]LogSlate: TreeView
+[2022.11.13-00.56.15:168][  0]SourceControl: Source control is disabled
+[2022.11.13-00.56.15:217][  0]SourceControl: Source control is disabled
+[2022.11.13-00.56.15:217][  0]SourceControl: Source control is disabled
+[2022.11.13-00.56.15:410][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.13-00.56.15:411][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.11.13-00.56.15:411][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.13-00.56.15:887][  0]LogPython: Using Python 3.9.7
+[2022.11.13-00.56.16:873][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A85509094FA63565D563E4BE5C42EDA9 | Instance: 64F2762649849CF5F3F7B69FDDCB8C64 (DESKTOP-91PI83P-23248).
+[2022.11.13-00.56.17:128][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.13-00.56.17:139][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.13-00.56.18:169][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.13-00.56.18:296][  0]SourceControl: Source control is disabled
+[2022.11.13-00.56.18:305][  0]SourceControl: Source control is disabled
+[2022.11.13-00.56.18:363][  0]SourceControl: Source control is disabled
+[2022.11.13-00.56.18:373][  0]LogUProjectInfo: Found projects:
+[2022.11.13-00.56.18:387][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.13-00.56.18:390][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.13-00.56.18:390][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.13-00.56.18:820][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.13-00.56.18:923][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.13-00.56.18:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.13-00.56.19:312][  0]LogCollectionManager: Loaded 0 collections in 0.001663 seconds
+[2022.11.13-00.56.19:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/Collections/' took 0.00s
+[2022.11.13-00.56.19:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Developers/Philip/Collections/' took 0.00s
+[2022.11.13-00.56.19:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Collections/' took 0.00s
+[2022.11.13-00.56.19:927][  0]LogEngine: Initializing Engine...
+[2022.11.13-00.56.19:952][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.13-00.56.19:956][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.11.13-00.56.20:465][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.13-00.56.20:468][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.13-00.56.20:493][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-00.56.20:559][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.13-00.56.20:567][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.13-00.56.20:601][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.13-00.56.20:602][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.13-00.56.20:602][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.13-00.56.20:604][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.13-00.56.20:604][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.13-00.56.20:604][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.13-00.56.20:604][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.13-00.56.20:604][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.13-00.56.20:604][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.13-00.56.20:604][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.13-00.56.20:604][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.13-00.56.20:605][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.13-00.56.20:605][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.13-00.56.20:606][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.13-00.56.20:606][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.13-00.56.20:606][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.13-00.56.20:622][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.13-00.56.20:992][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.13-00.56.20:993][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.13-00.56.20:997][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.13-00.56.20:997][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.13-00.56.20:999][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.13-00.56.20:999][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.11.13-00.56.21:002][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.13-00.56.21:002][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.13-00.56.21:002][  0]LogInit: FAudioDevice initialized.
+[2022.11.13-00.56.21:003][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.13-00.56.21:003][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.13-00.56.21:003][  0]LogInit: Texture streaming: Enabled
+[2022.11.13-00.56.21:067][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.13-00.56.21:085][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.13-00.56.21:125][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.13-00.56.21:143][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.13-00.56.21:143][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.13-00.56.23:712][  0]LogLiveCoding: Display: First instance in process group "UE_ItsBuzzinessTime_0xfcb100eb", spawning console
+[2022.11.13-00.56.23:712][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.13-00.56.23:712][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.13-00.56.23:742][  0]LogInit: Transaction tracking system initialized
+[2022.11.13-00.56.23:871][  0]BlueprintLog: New page: Editor Load
+[2022.11.13-00.56.24:302][  0]LocalizationService: Localization service is disabled
+[2022.11.13-00.56.24:395][  0]TimingProfiler: Initialize
+[2022.11.13-00.56.24:395][  0]TimingProfiler: OnSessionChanged
+[2022.11.13-00.56.24:396][  0]LoadingProfiler: Initialize
+[2022.11.13-00.56.24:396][  0]LoadingProfiler: OnSessionChanged
+[2022.11.13-00.56.24:398][  0]NetworkingProfiler: Initialize
+[2022.11.13-00.56.24:400][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.13-00.56.24:400][  0]MemoryProfiler: Initialize
+[2022.11.13-00.56.24:400][  0]MemoryProfiler: OnSessionChanged
+[2022.11.13-00.56.24:754][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.13-00.56.24:755][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.13-00.56.24:756][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.13-00.56.25:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/' took 0.02s
+[2022.11.13-00.56.25:632][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.13-00.56.25:808][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.13-00.56.25:815][  0]SourceControl: Source control is disabled
+[2022.11.13-00.56.25:816][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.164
+[2022.11.13-00.56.25:817][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/TopDown/Maps/TopDownMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.13-00.56.25:818][  0]LightingResults: New page: Lighting Build
+[2022.11.13-00.56.25:831][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-00.56.25:834][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-00.56.25:835][  0]MapCheck: New page: Map Check
+[2022.11.13-00.56.25:835][  0]LightingResults: New page: Lighting Build
+[2022.11.13-00.56.25:851][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-00.56.25:863][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.13-00.56.26:830][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownMap'.
+[2022.11.13-00.56.26:841][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-00.56.26:842][  0]LogAIModule: Creating AISystem for world TopDownMap
+[2022.11.13-00.56.26:844][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.13-00.56.26:844][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.13-00.56.27:032][  0]LogWorldPartition: Display: WorldPartition initialize took 187 ms
+[2022.11.13-00.56.27:052][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.13-00.56.27:057][  0]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.11.13-00.56.27:075][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.13-00.56.27:076][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.13-00.56.27:076][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.784ms to complete.
+[2022.11.13-00.56.27:076][  0]LogFileHelpers: Loading map 'TopDownMap' took 1.260
+[2022.11.13-00.56.27:119][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.468
+[2022.11.13-00.56.27:119][  0]LogShaderCompilers: Display: ================================================
+[2022.11.13-00.56.27:119][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-00.56.27:119][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.13-00.56.27:120][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.13-00.56.27:120][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.13-00.56.27:120][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-00.56.27:120][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.13-00.56.27:120][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.13-00.56.27:120][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.13-00.56.27:120][  0]LogShaderCompilers: Display: ================================================
+[2022.11.13-00.56.27:321][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-00.56.27:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-00.56.27:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-00.56.27:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-00.56.27:495][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.13-00.56.27:495][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.13-00.56.27:498][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.13-00.56.27:498][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.13-00.56.27:500][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.13-00.56.27:500][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.13-00.56.27:502][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.13-00.56.27:502][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.13-00.56.27:504][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.13-00.56.27:504][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.13-00.56.27:505][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.13-00.56.27:505][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.13-00.56.27:507][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.13-00.56.27:507][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.13-00.56.27:510][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.13-00.56.27:510][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.13-00.56.27:512][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.13-00.56.27:512][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.13-00.56.27:514][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.13-00.56.27:514][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.13-00.56.27:515][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.13-00.56.27:838][  0]LogSlate: Took 0.000773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.13-00.56.27:846][  0]LogSlate: Took 0.000852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.13-00.56.27:847][  0]LogSlate: Took 0.000845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.13-00.56.27:870][  0]LogViewport: Scene viewport resized to 1417x848, mode Windowed.
+[2022.11.13-00.56.27:927][  0]LogRenderer: Scene Capture has ShowOnlyComponents or ShowOnlyActors ignored by the PrimitiveRenderMode setting! /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SceneCapture2D_UAID_B445067F81CB824701_1773353015.NewSceneCaptureComponent2D
+[2022.11.13-00.56.28:717][  0]LogStall: Startup...
+[2022.11.13-00.56.28:720][  0]LogStall: Startup complete.
+[2022.11.13-00.56.28:742][  0]LogLoad: (Engine Initialization) Total time: 22.09 seconds
+[2022.11.13-00.56.28:742][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.13-00.56.28:828][  0]LogAssetRegistry: Asset discovery search completed in 15.4208 seconds
+[2022.11.13-00.56.28:835][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2022.11.13-00.56.28:845][  0]LogNiagara: Compiling System NiagaraSystem /Game/Cursor/FX_Cursor.FX_Cursor took 2.036432 sec, no shader worker used.
+[2022.11.13-00.56.28:849][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.13-00.56.29:033][  1]LogSlate: Took 0.001028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.13-00.56.33:758][ 33]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Characters/Main/BP_TopDownCharacter.BP_TopDownCharacter) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.11.13-00.56.33:759][ 33]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Main/BP_TopDownCharacter.BP_TopDownCharacter
+[2022.11.13-00.56.33:764][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-00.56.40:117][ 33]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.11.13-00.56.40:117][ 33]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049493s
+[2022.11.13-00.56.40:762][ 33]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001788s (1.997408s overbudget)
+[2022.11.13-00.56.40:763][ 33]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/PolygonOffice/Meshes/Props/Bathroom/SM_Prop_ToiletStalls_01.SM_Prop_ToiletStalls_01) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.11.13-00.56.40:769][ 33]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/PolygonOffice/Meshes/Props/Bathroom/SM_Prop_ToiletStalls_01.SM_Prop_ToiletStalls_01
+[2022.11.13-00.56.40:813][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-00.56.40:913][ 33]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.11.13-00.56.42:083][ 33]LogViewport: Scene viewport resized to 1403x848, mode Windowed.
+[2022.11.13-00.56.48:737][ 53]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.11.13-00.58.14:539][310]LogDerivedDataCache: C:/Users/Philip/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.031 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.13-00.58.56:426][495]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-00.58.56:426][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-00.58.56:514][495]LogSlate: Took 0.000869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.13-00.58.58:644][552]LogSlate: Took 0.001810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.13-00.58.58:662][552]LogSlate: Took 0.001034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.13-00.59.03:448][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.11.13-00.59.04:057][664]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonOffice/Maps/StageOne.StageOne
+[2022.11.13-00.59.04:057][664]Cmd: MAP LOAD FILE="../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/PolygonOffice/Maps/StageOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.13-00.59.04:057][664]LightingResults: New page: Lighting Build
+[2022.11.13-00.59.04:057][664]LoadErrors: New page: Loading map: StageOne.umap
+[2022.11.13-00.59.04:059][664]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-00.59.04:059][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-00.59.04:064][664]MapCheck: New page: Map Check
+[2022.11.13-00.59.04:064][664]LightingResults: New page: Lighting Build
+[2022.11.13-00.59.04:090][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-00.59.04:095][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.13-00.59.04:151][664]LogWorld: UWorld::CleanupWorld for StageOne, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-00.59.04:152][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-00.59.04:189][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.13-00.59.04:218][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.13-00.59.04:289][664]LogAudio: Display: Audio Device (ID: 1) registered with world 'StageOne'.
+[2022.11.13-00.59.04:289][664]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.13-00.59.04:289][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.13-00.59.04:290][664]LogAIModule: Creating AISystem for world StageOne
+[2022.11.13-00.59.04:318][664]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.13-00.59.04:320][664]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=888.801 Y=-2194.105 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (1000 uu) 
+[2022.11.13-00.59.04:324][664]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.11.13-00.59.04:359][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.13-00.59.04:367][664]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.13-00.59.04:367][664]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.225ms to complete.
+[2022.11.13-00.59.04:367][664]LogFileHelpers: Loading map 'StageOne' took 0.310
+[2022.11.13-00.59.35:388][106]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.00.47:847][ 51]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_13.SM_Prop_Plant_13
+[2022.11.13-01.00.47:847][ 51]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_13.SM_Prop_Plant_13
+[2022.11.13-01.00.47:848][ 51]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_13.SM_Prop_Plant_13 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_0
+[2022.11.13-01.00.50:840][139]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_13.SM_Prop_Plant_13
+[2022.11.13-01.00.50:840][139]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_13.SM_Prop_Plant_13
+[2022.11.13-01.00.50:843][139]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_13.SM_Prop_Plant_13 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_319
+[2022.11.13-01.01.05:171][549]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.01.12:794][731]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_01.SM_Prop_Rug_01
+[2022.11.13-01.01.12:794][731]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_01.SM_Prop_Rug_01
+[2022.11.13-01.01.12:795][731]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_01.SM_Prop_Rug_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_350
+[2022.11.13-01.01.14:508][781]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_01.SM_Prop_Rug_01
+[2022.11.13-01.01.14:508][781]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_01.SM_Prop_Rug_01
+[2022.11.13-01.01.14:510][781]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_01.SM_Prop_Rug_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_371
+[2022.11.13-01.01.19:921][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_02.SM_Prop_Rug_02
+[2022.11.13-01.01.19:921][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_02.SM_Prop_Rug_02
+[2022.11.13-01.01.19:922][923]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_02.SM_Prop_Rug_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_379
+[2022.11.13-01.01.20:934][953]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_02.SM_Prop_Rug_02
+[2022.11.13-01.01.20:934][953]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_02.SM_Prop_Rug_02
+[2022.11.13-01.01.20:937][953]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_02.SM_Prop_Rug_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_385
+[2022.11.13-01.01.21:315][965]Cmd: TRANSACTION UNDO
+[2022.11.13-01.01.21:315][965]LogEditorTransaction: Undo Create Actors
+[2022.11.13-01.01.24:571][ 32]LogStaticMesh: Display: Building static mesh SM_Prop_Rug_05...
+[2022.11.13-01.01.24:590][ 32]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_05.SM_Prop_Rug_05
+[2022.11.13-01.01.24:695][ 33]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_05.SM_Prop_Rug_05
+[2022.11.13-01.01.24:695][ 33]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_05.SM_Prop_Rug_05
+[2022.11.13-01.01.24:697][ 33]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_05.SM_Prop_Rug_05 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_391
+[2022.11.13-01.01.25:483][ 55]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_05.SM_Prop_Rug_05
+[2022.11.13-01.01.25:484][ 55]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_05.SM_Prop_Rug_05
+[2022.11.13-01.01.25:485][ 55]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_05.SM_Prop_Rug_05 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_399
+[2022.11.13-01.01.25:966][ 69]Cmd: TRANSACTION UNDO
+[2022.11.13-01.01.25:968][ 69]LogEditorTransaction: Undo Create Actors
+[2022.11.13-01.01.27:764][ 98]LogStaticMesh: Display: Building static mesh SM_Prop_Rug_03...
+[2022.11.13-01.01.27:767][ 98]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_03.SM_Prop_Rug_03
+[2022.11.13-01.01.27:871][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_03.SM_Prop_Rug_03
+[2022.11.13-01.01.27:871][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_03.SM_Prop_Rug_03
+[2022.11.13-01.01.27:872][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_03.SM_Prop_Rug_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_402
+[2022.11.13-01.01.28:952][117]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_03.SM_Prop_Rug_03
+[2022.11.13-01.01.28:952][117]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_03.SM_Prop_Rug_03
+[2022.11.13-01.01.28:955][117]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Rug_03.SM_Prop_Rug_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_408
+[2022.11.13-01.01.29:478][133]Cmd: TRANSACTION UNDO
+[2022.11.13-01.01.29:478][133]LogEditorTransaction: Undo Create Actors
+[2022.11.13-01.02.11:210][241]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Triple_01.SM_Prop_Computer_Monitor_Triple_01
+[2022.11.13-01.02.11:210][241]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Triple_01.SM_Prop_Computer_Monitor_Triple_01
+[2022.11.13-01.02.11:211][241]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Triple_01.SM_Prop_Computer_Monitor_Triple_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_411
+[2022.11.13-01.02.12:588][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Triple_01.SM_Prop_Computer_Monitor_Triple_01
+[2022.11.13-01.02.12:588][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Triple_01.SM_Prop_Computer_Monitor_Triple_01
+[2022.11.13-01.02.12:590][281]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Triple_01.SM_Prop_Computer_Monitor_Triple_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_422
+[2022.11.13-01.02.13:654][303]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.02.14:523][315]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.02.19:969][405]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.02.26:737][572]Cmd: DELETE
+[2022.11.13-01.02.26:737][572]Cmd: ACTOR DELETE
+[2022.11.13-01.02.26:760][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.02.26:793][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.13-01.02.26:795][572]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.11.13-01.02.28:727][613]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.02.37:330][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Setup_01.SM_Prop_Computer_Setup_01
+[2022.11.13-01.02.37:330][834]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Setup_01.SM_Prop_Computer_Setup_01
+[2022.11.13-01.02.37:332][834]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Setup_01.SM_Prop_Computer_Setup_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_428
+[2022.11.13-01.02.38:427][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Setup_01.SM_Prop_Computer_Setup_01
+[2022.11.13-01.02.38:427][866]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Setup_01.SM_Prop_Computer_Setup_01
+[2022.11.13-01.02.38:429][866]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Setup_01.SM_Prop_Computer_Setup_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_433
+[2022.11.13-01.02.48:603][134]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.02.53:300][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_11.SM_Prop_Plant_11
+[2022.11.13-01.02.53:300][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_11.SM_Prop_Plant_11
+[2022.11.13-01.02.53:301][215]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_11.SM_Prop_Plant_11 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_436
+[2022.11.13-01.02.53:428][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_11.SM_Prop_Plant_11
+[2022.11.13-01.02.53:428][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_11.SM_Prop_Plant_11
+[2022.11.13-01.02.53:429][216]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_11.SM_Prop_Plant_11 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_443
+[2022.11.13-01.02.55:922][291]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_11.SM_Prop_Plant_11
+[2022.11.13-01.02.55:922][291]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_11.SM_Prop_Plant_11
+[2022.11.13-01.02.55:924][291]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Plant_11.SM_Prop_Plant_11 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_456
+[2022.11.13-01.02.57:867][330]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.03.10:373][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Bottle_01.SM_Prop_Bottle_01
+[2022.11.13-01.03.10:373][560]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Bottle_01.SM_Prop_Bottle_01
+[2022.11.13-01.03.10:374][560]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Bottle_01.SM_Prop_Bottle_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_458
+[2022.11.13-01.03.11:957][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Bottle_01.SM_Prop_Bottle_01
+[2022.11.13-01.03.11:957][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Bottle_01.SM_Prop_Bottle_01
+[2022.11.13-01.03.11:959][607]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Bottle_01.SM_Prop_Bottle_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_460
+[2022.11.13-01.03.13:920][643]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.03.18:159][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Child_Art_01.SM_Prop_Child_Art_01
+[2022.11.13-01.03.18:159][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Child_Art_01.SM_Prop_Child_Art_01
+[2022.11.13-01.03.18:160][737]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Child_Art_01.SM_Prop_Child_Art_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_464
+[2022.11.13-01.03.19:268][769]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Child_Art_01.SM_Prop_Child_Art_01
+[2022.11.13-01.03.19:268][769]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Child_Art_01.SM_Prop_Child_Art_01
+[2022.11.13-01.03.19:270][769]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Child_Art_01.SM_Prop_Child_Art_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_469
+[2022.11.13-01.03.36:826][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_01.SM_Prop_Cup_01
+[2022.11.13-01.03.36:826][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_01.SM_Prop_Cup_01
+[2022.11.13-01.03.36:826][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_01.SM_Prop_Cup_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_476
+[2022.11.13-01.03.40:591][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_01.SM_Prop_Cup_01
+[2022.11.13-01.03.40:591][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_01.SM_Prop_Cup_01
+[2022.11.13-01.03.40:593][280]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_01.SM_Prop_Cup_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_477
+[2022.11.13-01.03.50:910][428]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.04.34:657][147]LogStaticMesh: Display: Building static mesh SM_Prop_NamePlate_01...
+[2022.11.13-01.04.34:657][147]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NamePlate_01.SM_Prop_NamePlate_01
+[2022.11.13-01.04.34:804][147]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NamePlate_01.SM_Prop_NamePlate_01
+[2022.11.13-01.04.34:804][147]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NamePlate_01.SM_Prop_NamePlate_01
+[2022.11.13-01.04.34:806][147]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NamePlate_01.SM_Prop_NamePlate_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_479
+[2022.11.13-01.04.36:926][209]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NamePlate_01.SM_Prop_NamePlate_01
+[2022.11.13-01.04.36:927][209]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NamePlate_01.SM_Prop_NamePlate_01
+[2022.11.13-01.04.36:929][209]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NamePlate_01.SM_Prop_NamePlate_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_509
+[2022.11.13-01.04.45:057][406]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.04.52:604][515]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_OHP_01.SM_Prop_OHP_01
+[2022.11.13-01.04.52:604][515]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_OHP_01.SM_Prop_OHP_01
+[2022.11.13-01.04.52:605][515]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_OHP_01.SM_Prop_OHP_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_521
+[2022.11.13-01.04.54:032][556]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_OHP_01.SM_Prop_OHP_01
+[2022.11.13-01.04.54:032][556]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_OHP_01.SM_Prop_OHP_01
+[2022.11.13-01.04.54:034][556]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_OHP_01.SM_Prop_OHP_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_525
+[2022.11.13-01.04.55:013][577]Cmd: DELETE
+[2022.11.13-01.04.55:013][577]Cmd: ACTOR DELETE
+[2022.11.13-01.04.55:030][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.04.55:082][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.11.13-01.04.55:084][577]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2022.11.13-01.04.58:057][613]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.05.08:450][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.08:450][785]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.08:450][785]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_527
+[2022.11.13-01.05.08:559][787]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.08:560][787]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.08:561][787]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_528
+[2022.11.13-01.05.10:725][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.10:725][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.10:725][852]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_530
+[2022.11.13-01.05.12:713][897]Cmd: TRANSACTION UNDO
+[2022.11.13-01.05.12:713][897]LogEditorTransaction: Undo Create Actors
+[2022.11.13-01.05.15:463][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.15:463][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.15:464][923]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_531
+[2022.11.13-01.05.15:742][925]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.15:742][925]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.15:743][925]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_532
+[2022.11.13-01.05.16:983][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.16:983][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01
+[2022.11.13-01.05.16:985][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperShredder_01.SM_Prop_PaperShredder_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_533
+[2022.11.13-01.05.24:939][ 62]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.05.29:712][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_01.SM_Prop_Paper_Pile_01
+[2022.11.13-01.05.29:712][177]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_01.SM_Prop_Paper_Pile_01
+[2022.11.13-01.05.29:713][177]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_01.SM_Prop_Paper_Pile_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_534
+[2022.11.13-01.05.31:159][220]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_01.SM_Prop_Paper_Pile_01
+[2022.11.13-01.05.31:159][220]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_01.SM_Prop_Paper_Pile_01
+[2022.11.13-01.05.31:161][220]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_01.SM_Prop_Paper_Pile_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_536
+[2022.11.13-01.05.39:043][341]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.05.49:226][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_06.SM_Prop_Chair_06
+[2022.11.13-01.05.49:226][582]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_06.SM_Prop_Chair_06
+[2022.11.13-01.05.49:228][582]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_06.SM_Prop_Chair_06 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_537
+[2022.11.13-01.05.50:263][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_06.SM_Prop_Chair_06
+[2022.11.13-01.05.50:263][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_06.SM_Prop_Chair_06
+[2022.11.13-01.05.50:266][612]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_06.SM_Prop_Chair_06 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_538
+[2022.11.13-01.05.52:277][659]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.06.02:194][932]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.06.46:584][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_01.SM_Prop_WallDressing_01
+[2022.11.13-01.06.46:584][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_01.SM_Prop_WallDressing_01
+[2022.11.13-01.06.46:584][ 88]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_01.SM_Prop_WallDressing_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_540
+[2022.11.13-01.06.49:297][168]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_01.SM_Prop_WallDressing_01
+[2022.11.13-01.06.49:297][168]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_01.SM_Prop_WallDressing_01
+[2022.11.13-01.06.49:299][168]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_01.SM_Prop_WallDressing_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_542
+[2022.11.13-01.06.52:111][253]Cmd: DELETE
+[2022.11.13-01.06.52:111][253]Cmd: ACTOR DELETE
+[2022.11.13-01.06.52:126][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.06.52:161][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.13-01.06.52:163][253]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.11.13-01.06.56:977][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_04.SM_Prop_WallDressing_04
+[2022.11.13-01.06.56:977][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_04.SM_Prop_WallDressing_04
+[2022.11.13-01.06.56:978][362]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_04.SM_Prop_WallDressing_04 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_543
+[2022.11.13-01.06.58:014][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_04.SM_Prop_WallDressing_04
+[2022.11.13-01.06.58:014][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_04.SM_Prop_WallDressing_04
+[2022.11.13-01.06.58:016][392]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_04.SM_Prop_WallDressing_04 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_545
+[2022.11.13-01.07.11:018][700]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.07.12:253][719]Cmd: DELETE
+[2022.11.13-01.07.12:253][719]Cmd: ACTOR DELETE
+[2022.11.13-01.07.12:264][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.07.12:293][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.13-01.07.12:294][719]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.11.13-01.07.14:237][756]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.07.14:546][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_03.SM_Prop_WallDressing_03
+[2022.11.13-01.07.14:546][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_03.SM_Prop_WallDressing_03
+[2022.11.13-01.07.14:546][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_03.SM_Prop_WallDressing_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_546
+[2022.11.13-01.07.16:361][803]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_03.SM_Prop_WallDressing_03
+[2022.11.13-01.07.16:361][803]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_03.SM_Prop_WallDressing_03
+[2022.11.13-01.07.16:363][803]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_WallDressing_03.SM_Prop_WallDressing_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_547
+[2022.11.13-01.07.18:714][859]Cmd: TRANSACTION UNDO
+[2022.11.13-01.07.18:714][859]LogEditorTransaction: Undo Rotate Elements
+[2022.11.13-01.07.23:712][969]Cmd: DELETE
+[2022.11.13-01.07.23:713][969]Cmd: ACTOR DELETE
+[2022.11.13-01.07.23:727][969]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.07.23:760][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.13-01.07.23:763][969]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.11.13-01.07.26:595][ 35]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.07.28:371][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Calender_01.SM_Prop_Calender_01
+[2022.11.13-01.07.28:371][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Calender_01.SM_Prop_Calender_01
+[2022.11.13-01.07.28:372][ 63]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Calender_01.SM_Prop_Calender_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_548
+[2022.11.13-01.07.30:035][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Calender_01.SM_Prop_Calender_01
+[2022.11.13-01.07.30:035][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Calender_01.SM_Prop_Calender_01
+[2022.11.13-01.07.30:037][113]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Calender_01.SM_Prop_Calender_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_549
+[2022.11.13-01.07.40:303][405]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.08.06:346][444]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_CardRoller_01.SM_Prop_CardRoller_01
+[2022.11.13-01.08.06:346][444]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_CardRoller_01.SM_Prop_CardRoller_01
+[2022.11.13-01.08.06:347][444]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_CardRoller_01.SM_Prop_CardRoller_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_551
+[2022.11.13-01.08.07:474][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_CardRoller_01.SM_Prop_CardRoller_01
+[2022.11.13-01.08.07:474][566]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_CardRoller_01.SM_Prop_CardRoller_01
+[2022.11.13-01.08.07:475][566]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_CardRoller_01.SM_Prop_CardRoller_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_552
+[2022.11.13-01.08.17:097][398]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.08.27:306][468]LogStaticMesh: Display: Building static mesh SM_Prop_LaptopStand_02...
+[2022.11.13-01.08.27:318][468]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_LaptopStand_02.SM_Prop_LaptopStand_02
+[2022.11.13-01.08.27:394][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_LaptopStand_02.SM_Prop_LaptopStand_02
+[2022.11.13-01.08.27:394][472]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_LaptopStand_02.SM_Prop_LaptopStand_02
+[2022.11.13-01.08.27:395][472]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_LaptopStand_02.SM_Prop_LaptopStand_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_554
+[2022.11.13-01.08.28:486][593]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_LaptopStand_02.SM_Prop_LaptopStand_02
+[2022.11.13-01.08.28:486][593]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_LaptopStand_02.SM_Prop_LaptopStand_02
+[2022.11.13-01.08.28:487][593]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_LaptopStand_02.SM_Prop_LaptopStand_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_555
+[2022.11.13-01.08.35:860][228]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.08.36:147][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Laptop_02.SM_Prop_Laptop_02
+[2022.11.13-01.08.36:148][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Laptop_02.SM_Prop_Laptop_02
+[2022.11.13-01.08.36:148][250]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Laptop_02.SM_Prop_Laptop_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_556
+[2022.11.13-01.08.37:586][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Laptop_02.SM_Prop_Laptop_02
+[2022.11.13-01.08.37:586][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Laptop_02.SM_Prop_Laptop_02
+[2022.11.13-01.08.37:587][403]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Laptop_02.SM_Prop_Laptop_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_558
+[2022.11.13-01.08.42:307][800]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.08.50:840][557]Cmd: MODE ROTGRID=0
+[2022.11.13-01.08.59:680][333]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.09.08:863][304]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_01.SM_Prop_Cord_Desk_01
+[2022.11.13-01.09.08:863][304]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_01.SM_Prop_Cord_Desk_01
+[2022.11.13-01.09.08:864][304]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_01.SM_Prop_Cord_Desk_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_559
+[2022.11.13-01.09.12:945][767]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_01.SM_Prop_Cord_Desk_01
+[2022.11.13-01.09.12:945][767]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_01.SM_Prop_Cord_Desk_01
+[2022.11.13-01.09.12:947][767]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_01.SM_Prop_Cord_Desk_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_560
+[2022.11.13-01.09.25:313][818]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.09.32:423][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_02.SM_Prop_Cord_Desk_02
+[2022.11.13-01.09.32:423][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_02.SM_Prop_Cord_Desk_02
+[2022.11.13-01.09.32:424][559]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_02.SM_Prop_Cord_Desk_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_564
+[2022.11.13-01.09.33:684][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_02.SM_Prop_Cord_Desk_02
+[2022.11.13-01.09.33:684][702]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_02.SM_Prop_Cord_Desk_02
+[2022.11.13-01.09.33:686][702]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cord_Desk_02.SM_Prop_Cord_Desk_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_565
+[2022.11.13-01.09.34:308][740]Cmd: DELETE
+[2022.11.13-01.09.34:308][740]Cmd: ACTOR DELETE
+[2022.11.13-01.09.34:321][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.09.34:351][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.13-01.09.34:353][740]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.11.13-01.09.38:619][ 94]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.09.42:827][583]LogStaticMesh: Display: Building static mesh SM_Prop_Desklamp_01...
+[2022.11.13-01.09.42:838][583]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Desklamp_01.SM_Prop_Desklamp_01
+[2022.11.13-01.09.42:914][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Desklamp_01.SM_Prop_Desklamp_01
+[2022.11.13-01.09.42:914][587]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Desklamp_01.SM_Prop_Desklamp_01
+[2022.11.13-01.09.42:914][587]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Desklamp_01.SM_Prop_Desklamp_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_566
+[2022.11.13-01.09.45:509][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Desklamp_01.SM_Prop_Desklamp_01
+[2022.11.13-01.09.45:509][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Desklamp_01.SM_Prop_Desklamp_01
+[2022.11.13-01.09.45:510][888]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Desklamp_01.SM_Prop_Desklamp_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_567
+[2022.11.13-01.09.46:139][925]Cmd: DELETE
+[2022.11.13-01.09.46:139][925]Cmd: ACTOR DELETE
+[2022.11.13-01.09.46:153][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.09.46:181][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.11.13-01.09.46:183][925]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.11.13-01.09.50:423][307]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.09.52:093][488]LogStaticMesh: Display: Building static mesh SM_Prop_DeskLamp_05...
+[2022.11.13-01.09.52:093][488]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05
+[2022.11.13-01.09.52:181][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05
+[2022.11.13-01.09.52:181][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05
+[2022.11.13-01.09.52:181][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_568
+[2022.11.13-01.09.54:387][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05
+[2022.11.13-01.09.54:387][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05
+[2022.11.13-01.09.54:388][750]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_569
+[2022.11.13-01.09.55:206][806]Cmd: DELETE
+[2022.11.13-01.09.55:206][806]Cmd: ACTOR DELETE
+[2022.11.13-01.09.55:223][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.09.55:252][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.13-01.09.55:254][806]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2022.11.13-01.09.59:356][164]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.09.59:768][207]LogStaticMesh: Display: Building static mesh SM_Prop_DeskLamp_05_Arm...
+[2022.11.13-01.09.59:768][207]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm
+[2022.11.13-01.09.59:861][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm
+[2022.11.13-01.09.59:861][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm
+[2022.11.13-01.09.59:862][211]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_570
+[2022.11.13-01.10.01:350][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm
+[2022.11.13-01.10.01:350][378]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm
+[2022.11.13-01.10.01:351][378]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_571
+[2022.11.13-01.10.02:206][474]Cmd: DELETE
+[2022.11.13-01.10.02:206][474]Cmd: ACTOR DELETE
+[2022.11.13-01.10.02:219][474]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.10.02:244][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.13-01.10.02:245][474]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.11.13-01.10.04:406][705]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05
+[2022.11.13-01.10.04:406][705]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05
+[2022.11.13-01.10.04:406][705]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_572
+[2022.11.13-01.10.05:391][815]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05
+[2022.11.13-01.10.05:391][815]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05
+[2022.11.13-01.10.05:392][815]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05.SM_Prop_DeskLamp_05 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_573
+[2022.11.13-01.10.07:184][944]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm
+[2022.11.13-01.10.07:184][944]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm
+[2022.11.13-01.10.07:185][944]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_574
+[2022.11.13-01.10.08:648][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm
+[2022.11.13-01.10.08:649][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm
+[2022.11.13-01.10.08:650][ 84]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_DeskLamp_05_Arm.SM_Prop_DeskLamp_05_Arm as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_575
+[2022.11.13-01.10.11:207][267]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.10.14:051][492]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.10.16:189][732]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.10.38:450][ 86]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.10.47:410][832]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.10.50:334][166]Cmd: TRANSACTION UNDO
+[2022.11.13-01.10.50:334][166]LogEditorTransaction: Undo Rotate Elements
+[2022.11.13-01.10.57:937][759]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.11.00:148][  2]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.13-01.11.06:706][561]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.11.19:284][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_SwissBall_01.SM_Prop_SwissBall_01
+[2022.11.13-01.11.19:284][908]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_SwissBall_01.SM_Prop_SwissBall_01
+[2022.11.13-01.11.19:285][908]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_SwissBall_01.SM_Prop_SwissBall_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_576
+[2022.11.13-01.11.19:441][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_SwissBall_01.SM_Prop_SwissBall_01
+[2022.11.13-01.11.19:441][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_SwissBall_01.SM_Prop_SwissBall_01
+[2022.11.13-01.11.19:442][920]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_SwissBall_01.SM_Prop_SwissBall_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_577
+[2022.11.13-01.11.20:252][  9]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_SwissBall_01.SM_Prop_SwissBall_01
+[2022.11.13-01.11.20:252][  9]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_SwissBall_01.SM_Prop_SwissBall_01
+[2022.11.13-01.11.20:253][  9]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_SwissBall_01.SM_Prop_SwissBall_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_578
+[2022.11.13-01.11.27:888][649]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.11.27:917][650]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.11.37:636][556]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.11.39:782][802]Cmd: DELETE
+[2022.11.13-01.11.39:782][802]Cmd: ACTOR DELETE
+[2022.11.13-01.11.39:794][802]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.11.39:847][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.13-01.11.39:849][802]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2022.11.13-01.11.42:501][ 31]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.11.46:780][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_04.SM_Prop_Chair_04
+[2022.11.13-01.11.46:780][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_04.SM_Prop_Chair_04
+[2022.11.13-01.11.46:781][504]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_04.SM_Prop_Chair_04 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_579
+[2022.11.13-01.11.46:930][518]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_04.SM_Prop_Chair_04
+[2022.11.13-01.11.46:930][518]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_04.SM_Prop_Chair_04
+[2022.11.13-01.11.46:930][518]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_04.SM_Prop_Chair_04 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_580
+[2022.11.13-01.11.47:788][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_04.SM_Prop_Chair_04
+[2022.11.13-01.11.47:788][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_04.SM_Prop_Chair_04
+[2022.11.13-01.11.47:789][617]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Chair_04.SM_Prop_Chair_04 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_584
+[2022.11.13-01.11.53:072][ 74]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.11.54:721][248]LogMaterial: Display: Missing cached shadermap for Mat_PolygonOffice_04_C in PCD3D_SM5, Default, SM5 (DDC key hash: CEB6775A847D33F102D631A6EB5109F783AB8495), compiling. 
+[2022.11.13-01.11.54:945][254]LogTexture: Display: Building textures: /Game/PolygonOffice/Textures/T_PolygonOffice_04_C.T_PolygonOffice_04_C (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.13-01.11.56:377][290]LogShaderCompilers: Display: ================================================
+[2022.11.13-01.11.56:377][290]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-01.11.56:377][290]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Shaders Compiled: 16
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Jobs assigned 13, completed 1 (7.69%)
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 1.53 s
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Job execution time: average 1.50 s, max 1.50 s
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Job life time (pending + execution): average 1.53 s, max 1.53
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.53 s
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.44 jobs/batch
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Average processing rate: 0.65 jobs/sec
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Effective parallelization: 0.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2022.11.13-01.11.56:378][290]LogShaderCompilers: Display: ================================================
+[2022.11.13-01.12.09:995][289]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.12.15:427][884]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Exterior/SM_Prop_Trashbin_01.SM_Prop_Trashbin_01
+[2022.11.13-01.12.15:427][884]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Exterior/SM_Prop_Trashbin_01.SM_Prop_Trashbin_01
+[2022.11.13-01.12.15:428][884]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Exterior/SM_Prop_Trashbin_01.SM_Prop_Trashbin_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_586
+[2022.11.13-01.12.16:247][968]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Exterior/SM_Prop_Trashbin_01.SM_Prop_Trashbin_01
+[2022.11.13-01.12.16:247][968]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Exterior/SM_Prop_Trashbin_01.SM_Prop_Trashbin_01
+[2022.11.13-01.12.16:249][968]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Exterior/SM_Prop_Trashbin_01.SM_Prop_Trashbin_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_587
+[2022.11.13-01.12.21:083][302]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.12.24:824][535]Cmd: TRANSACTION UNDO
+[2022.11.13-01.12.24:824][535]LogEditorTransaction: Undo Rotate Elements
+[2022.11.13-01.12.25:223][552]Cmd: MODE ROTGRID=1
+[2022.11.13-01.12.38:051][307]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.12.50:370][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Poster_01.SM_Prop_Poster_01
+[2022.11.13-01.12.50:370][722]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Poster_01.SM_Prop_Poster_01
+[2022.11.13-01.12.50:371][722]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Poster_01.SM_Prop_Poster_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_588
+[2022.11.13-01.12.51:532][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Poster_01.SM_Prop_Poster_01
+[2022.11.13-01.12.51:532][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Poster_01.SM_Prop_Poster_01
+[2022.11.13-01.12.51:534][852]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Poster_01.SM_Prop_Poster_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_590
+[2022.11.13-01.12.54:139][ 30]Cmd: MODE ROTGRID=0
+[2022.11.13-01.13.02:397][642]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.13.07:379][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.13-01.13.07:483][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.13-01.13.07:493][193]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007563 seconds
+[2022.11.13-01.13.07:649][193]LogSavePackage: Moving output files for package: /Game/PolygonOffice/Maps/StageOne
+[2022.11.13-01.13.07:651][193]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/StageOne131929A340D6557E1A5386ABA56A2A80.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/PolygonOffice/Maps/StageOne.umap'
+[2022.11.13-01.13.07:665][193]LogFileHelpers: No new changes to save!
+[2022.11.13-01.13.07:665][193]LogFileHelpers: Saving map 'StageOne' took 0.217
+[2022.11.13-01.13.07:680][193]AssetCheck: New page: Asset Save: StageOne
+[2022.11.13-01.13.07:680][193]LogContentValidation: Display: Validating World /Game/PolygonOffice/Maps/StageOne.StageOne
+[2022.11.13-01.13.12:133][648]LogStaticMesh: Display: Building static mesh SM_Prop_Briefcase_02...
+[2022.11.13-01.13.12:147][648]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Briefcase_02.SM_Prop_Briefcase_02
+[2022.11.13-01.13.12:265][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Briefcase_02.SM_Prop_Briefcase_02
+[2022.11.13-01.13.12:265][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Briefcase_02.SM_Prop_Briefcase_02
+[2022.11.13-01.13.12:266][655]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Briefcase_02.SM_Prop_Briefcase_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_591
+[2022.11.13-01.13.14:321][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Briefcase_02.SM_Prop_Briefcase_02
+[2022.11.13-01.13.14:321][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Briefcase_02.SM_Prop_Briefcase_02
+[2022.11.13-01.13.14:322][878]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_Briefcase_02.SM_Prop_Briefcase_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_592
+[2022.11.13-01.13.21:752][470]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.13.31:735][526]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_Coffee_Disposable_Closed_01.SM_Prop_Cup_Coffee_Disposable_Closed_01
+[2022.11.13-01.13.31:735][526]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_Coffee_Disposable_Closed_01.SM_Prop_Cup_Coffee_Disposable_Closed_01
+[2022.11.13-01.13.31:735][526]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_Coffee_Disposable_Closed_01.SM_Prop_Cup_Coffee_Disposable_Closed_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_593
+[2022.11.13-01.13.33:851][769]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_Coffee_Disposable_Closed_01.SM_Prop_Cup_Coffee_Disposable_Closed_01
+[2022.11.13-01.13.33:851][769]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_Coffee_Disposable_Closed_01.SM_Prop_Cup_Coffee_Disposable_Closed_01
+[2022.11.13-01.13.33:852][769]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cup_Coffee_Disposable_Closed_01.SM_Prop_Cup_Coffee_Disposable_Closed_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_594
+[2022.11.13-01.13.36:363][963]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.13.44:746][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Characters/SM_Chr_Attachment_Pens_01.SM_Chr_Attachment_Pens_01
+[2022.11.13-01.13.44:746][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Characters/SM_Chr_Attachment_Pens_01.SM_Chr_Attachment_Pens_01
+[2022.11.13-01.13.44:747][858]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Characters/SM_Chr_Attachment_Pens_01.SM_Chr_Attachment_Pens_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_596
+[2022.11.13-01.13.44:897][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Characters/SM_Chr_Attachment_Pens_01.SM_Chr_Attachment_Pens_01
+[2022.11.13-01.13.44:897][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Characters/SM_Chr_Attachment_Pens_01.SM_Chr_Attachment_Pens_01
+[2022.11.13-01.13.44:898][870]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Characters/SM_Chr_Attachment_Pens_01.SM_Chr_Attachment_Pens_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_597
+[2022.11.13-01.13.45:595][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Characters/SM_Chr_Attachment_Pens_01.SM_Chr_Attachment_Pens_01
+[2022.11.13-01.13.45:595][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Characters/SM_Chr_Attachment_Pens_01.SM_Chr_Attachment_Pens_01
+[2022.11.13-01.13.45:595][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Characters/SM_Chr_Attachment_Pens_01.SM_Chr_Attachment_Pens_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_599
+[2022.11.13-01.13.47:369][ 74]Cmd: DELETE
+[2022.11.13-01.13.47:369][ 74]Cmd: ACTOR DELETE
+[2022.11.13-01.13.47:389][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.13.47:428][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.11.13-01.13.47:435][ 74]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2022.11.13-01.13.50:800][347]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.13.58:345][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Pen_03.SM_Prop_Pen_03
+[2022.11.13-01.13.58:345][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Pen_03.SM_Prop_Pen_03
+[2022.11.13-01.13.58:345][991]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Pen_03.SM_Prop_Pen_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_600
+[2022.11.13-01.13.59:201][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Pen_03.SM_Prop_Pen_03
+[2022.11.13-01.13.59:201][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Pen_03.SM_Prop_Pen_03
+[2022.11.13-01.13.59:202][ 85]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Pen_03.SM_Prop_Pen_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_601
+[2022.11.13-01.14.03:517][417]Cmd: TRANSACTION UNDO
+[2022.11.13-01.14.03:517][417]LogEditorTransaction: Undo Rotate Elements
+[2022.11.13-01.14.04:556][487]Cmd: MODE ROTGRID=1
+[2022.11.13-01.14.09:374][874]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.14.12:028][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.15.09:842][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Mousepad_01.SM_Prop_Computer_Mousepad_01
+[2022.11.13-01.15.09:842][910]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Mousepad_01.SM_Prop_Computer_Mousepad_01
+[2022.11.13-01.15.09:843][910]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Mousepad_01.SM_Prop_Computer_Mousepad_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_602
+[2022.11.13-01.15.11:076][ 46]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Mousepad_01.SM_Prop_Computer_Mousepad_01
+[2022.11.13-01.15.11:076][ 46]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Mousepad_01.SM_Prop_Computer_Mousepad_01
+[2022.11.13-01.15.11:078][ 46]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Mousepad_01.SM_Prop_Computer_Mousepad_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_604
+[2022.11.13-01.15.21:401][875]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.15.27:283][376]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.15.34:267][134]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NotePad_02.SM_Prop_NotePad_02
+[2022.11.13-01.15.34:267][134]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NotePad_02.SM_Prop_NotePad_02
+[2022.11.13-01.15.34:268][134]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NotePad_02.SM_Prop_NotePad_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_605
+[2022.11.13-01.15.35:355][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NotePad_02.SM_Prop_NotePad_02
+[2022.11.13-01.15.35:355][253]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NotePad_02.SM_Prop_NotePad_02
+[2022.11.13-01.15.35:356][253]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_NotePad_02.SM_Prop_NotePad_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_607
+[2022.11.13-01.15.43:121][858]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.15.47:094][278]LogStaticMesh: Display: Building static mesh SM_Prop_Note_03...
+[2022.11.13-01.15.47:094][278]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_03.SM_Prop_Note_03
+[2022.11.13-01.15.47:187][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_03.SM_Prop_Note_03
+[2022.11.13-01.15.47:187][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_03.SM_Prop_Note_03
+[2022.11.13-01.15.47:188][282]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_03.SM_Prop_Note_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_609
+[2022.11.13-01.15.47:351][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_03.SM_Prop_Note_03
+[2022.11.13-01.15.47:352][294]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_03.SM_Prop_Note_03
+[2022.11.13-01.15.47:352][294]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_03.SM_Prop_Note_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_610
+[2022.11.13-01.15.48:411][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_03.SM_Prop_Note_03
+[2022.11.13-01.15.48:411][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_03.SM_Prop_Note_03
+[2022.11.13-01.15.48:412][412]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_03.SM_Prop_Note_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_611
+[2022.11.13-01.15.57:251][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.16.08:949][ 45]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.16.18:637][970]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_03.SM_Prop_Computer_Monitor_03
+[2022.11.13-01.16.18:637][970]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_03.SM_Prop_Computer_Monitor_03
+[2022.11.13-01.16.18:638][970]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_03.SM_Prop_Computer_Monitor_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_613
+[2022.11.13-01.16.19:387][ 43]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_03.SM_Prop_Computer_Monitor_03
+[2022.11.13-01.16.19:387][ 43]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_03.SM_Prop_Computer_Monitor_03
+[2022.11.13-01.16.19:388][ 43]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_03.SM_Prop_Computer_Monitor_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_615
+[2022.11.13-01.16.21:019][119]Cmd: DELETE
+[2022.11.13-01.16.21:019][119]Cmd: ACTOR DELETE
+[2022.11.13-01.16.21:042][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.16.21:104][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.11.13-01.16.21:122][119]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2022.11.13-01.16.23:341][223]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Double_01.SM_Prop_Computer_Monitor_Double_01
+[2022.11.13-01.16.23:341][223]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Double_01.SM_Prop_Computer_Monitor_Double_01
+[2022.11.13-01.16.23:343][223]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Double_01.SM_Prop_Computer_Monitor_Double_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_618
+[2022.11.13-01.16.23:949][258]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Double_01.SM_Prop_Computer_Monitor_Double_01
+[2022.11.13-01.16.23:949][258]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Double_01.SM_Prop_Computer_Monitor_Double_01
+[2022.11.13-01.16.23:951][258]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Computer_Monitor_Double_01.SM_Prop_Computer_Monitor_Double_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_620
+[2022.11.13-01.16.38:556][ 33]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.16.46:093][886]Cmd: DELETE
+[2022.11.13-01.16.46:093][886]Cmd: ACTOR DELETE
+[2022.11.13-01.16.46:108][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.16.46:145][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.13-01.16.46:148][886]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2022.11.13-01.16.51:135][170]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.16.57:868][884]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02.SM_Prop_Photocopier_02
+[2022.11.13-01.16.57:868][884]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02.SM_Prop_Photocopier_02
+[2022.11.13-01.16.57:868][884]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02.SM_Prop_Photocopier_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_622
+[2022.11.13-01.16.58:737][978]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02.SM_Prop_Photocopier_02
+[2022.11.13-01.16.58:737][978]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02.SM_Prop_Photocopier_02
+[2022.11.13-01.16.58:739][978]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02.SM_Prop_Photocopier_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_624
+[2022.11.13-01.17.00:969][ 85]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.17.10:063][506]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02_Combined.SM_Prop_Photocopier_02_Combined
+[2022.11.13-01.17.10:063][506]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02_Combined.SM_Prop_Photocopier_02_Combined
+[2022.11.13-01.17.10:065][506]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02_Combined.SM_Prop_Photocopier_02_Combined as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_627
+[2022.11.13-01.17.11:036][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02_Combined.SM_Prop_Photocopier_02_Combined
+[2022.11.13-01.17.11:037][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02_Combined.SM_Prop_Photocopier_02_Combined
+[2022.11.13-01.17.11:039][548]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Photocopier_02_Combined.SM_Prop_Photocopier_02_Combined as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_629
+[2022.11.13-01.17.12:180][604]Cmd: DELETE
+[2022.11.13-01.17.12:180][604]Cmd: ACTOR DELETE
+[2022.11.13-01.17.12:204][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.17.12:260][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.11.13-01.17.12:270][604]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2022.11.13-01.17.24:980][203]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.17.29:428][666]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_Stack_01.SM_Prop_CardboardBox_Stack_01
+[2022.11.13-01.17.29:428][666]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_Stack_01.SM_Prop_CardboardBox_Stack_01
+[2022.11.13-01.17.29:429][666]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_Stack_01.SM_Prop_CardboardBox_Stack_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_632
+[2022.11.13-01.17.31:020][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_Stack_01.SM_Prop_CardboardBox_Stack_01
+[2022.11.13-01.17.31:021][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_Stack_01.SM_Prop_CardboardBox_Stack_01
+[2022.11.13-01.17.31:022][835]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_Stack_01.SM_Prop_CardboardBox_Stack_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_635
+[2022.11.13-01.17.38:959][453]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.17.52:439][768]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.18.03:851][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_03.SM_Prop_Paper_Pile_03
+[2022.11.13-01.18.03:851][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_03.SM_Prop_Paper_Pile_03
+[2022.11.13-01.18.03:852][951]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_03.SM_Prop_Paper_Pile_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_636
+[2022.11.13-01.18.04:853][ 57]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_03.SM_Prop_Paper_Pile_03
+[2022.11.13-01.18.04:853][ 57]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_03.SM_Prop_Paper_Pile_03
+[2022.11.13-01.18.04:855][ 57]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_Pile_03.SM_Prop_Paper_Pile_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_638
+[2022.11.13-01.18.06:972][158]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.18.19:380][848]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.18.32:949][231]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperTray_01_Full_01.SM_Prop_PaperTray_01_Full_01
+[2022.11.13-01.18.32:949][231]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperTray_01_Full_01.SM_Prop_PaperTray_01_Full_01
+[2022.11.13-01.18.32:950][231]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperTray_01_Full_01.SM_Prop_PaperTray_01_Full_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_640
+[2022.11.13-01.18.33:474][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperTray_01_Full_01.SM_Prop_PaperTray_01_Full_01
+[2022.11.13-01.18.33:474][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperTray_01_Full_01.SM_Prop_PaperTray_01_Full_01
+[2022.11.13-01.18.33:475][289]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_PaperTray_01_Full_01.SM_Prop_PaperTray_01_Full_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_641
+[2022.11.13-01.18.46:393][971]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.18.50:581][450]LogStaticMesh: Display: Building static mesh SM_Prop_Note_04...
+[2022.11.13-01.18.50:581][450]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_04.SM_Prop_Note_04
+[2022.11.13-01.18.50:720][457]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_04.SM_Prop_Note_04
+[2022.11.13-01.18.50:720][457]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_04.SM_Prop_Note_04
+[2022.11.13-01.18.50:721][457]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_04.SM_Prop_Note_04 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_642
+[2022.11.13-01.18.51:361][529]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_04.SM_Prop_Note_04
+[2022.11.13-01.18.51:361][529]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_04.SM_Prop_Note_04
+[2022.11.13-01.18.51:362][529]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Note_04.SM_Prop_Note_04 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_643
+[2022.11.13-01.18.57:458][245]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.19.01:862][720]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.19.06:126][213]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.19.32:151][171]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.19.35:616][568]Cmd: TRANSACTION UNDO
+[2022.11.13-01.19.35:616][568]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-01.19.35:917][578]Cmd: TRANSACTION UNDO
+[2022.11.13-01.19.35:917][578]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-01.19.36:239][595]Cmd: TRANSACTION UNDO
+[2022.11.13-01.19.36:239][595]LogEditorTransaction: Undo Rotate Elements
+[2022.11.13-01.19.36:637][639]Cmd: TRANSACTION UNDO
+[2022.11.13-01.19.36:637][639]LogEditorTransaction: Undo Rotate Elements
+[2022.11.13-01.19.59:978][251]Cmd: TRANSACTION UNDO
+[2022.11.13-01.19.59:978][251]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-01.20.00:279][268]Cmd: TRANSACTION UNDO
+[2022.11.13-01.20.00:280][268]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.13-01.20.00:567][286]Cmd: TRANSACTION UNDO
+[2022.11.13-01.20.00:567][286]LogEditorTransaction: Undo Rotate Elements
+[2022.11.13-01.20.00:870][316]Cmd: TRANSACTION UNDO
+[2022.11.13-01.20.00:870][316]LogEditorTransaction: Undo Rotate Elements
+[2022.11.13-01.20.18:936][297]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_02.SM_Prop_Paper_02
+[2022.11.13-01.20.18:936][297]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_02.SM_Prop_Paper_02
+[2022.11.13-01.20.18:937][297]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_02.SM_Prop_Paper_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_644
+[2022.11.13-01.20.19:561][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_02.SM_Prop_Paper_02
+[2022.11.13-01.20.19:561][359]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_02.SM_Prop_Paper_02
+[2022.11.13-01.20.19:562][359]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Paper_02.SM_Prop_Paper_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_646
+[2022.11.13-01.20.38:413][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01
+[2022.11.13-01.20.38:413][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01
+[2022.11.13-01.20.38:414][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_648
+[2022.11.13-01.20.38:562][526]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01
+[2022.11.13-01.20.38:562][526]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01
+[2022.11.13-01.20.38:564][526]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_650
+[2022.11.13-01.20.40:887][771]Cmd: TRANSACTION UNDO
+[2022.11.13-01.20.40:887][771]LogEditorTransaction: Undo Move Elements
+[2022.11.13-01.20.43:412][997]Cmd: TRANSACTION REDO
+[2022.11.13-01.20.43:412][997]LogEditorTransaction: Redo Move Elements
+[2022.11.13-01.20.47:293][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01
+[2022.11.13-01.20.47:293][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01
+[2022.11.13-01.20.47:293][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_652
+[2022.11.13-01.20.48:495][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01
+[2022.11.13-01.20.48:495][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01
+[2022.11.13-01.20.48:496][501]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Cellotape_01.SM_Prop_Cellotape_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_654
+[2022.11.13-01.20.49:682][561]Cmd: DELETE
+[2022.11.13-01.20.49:682][561]Cmd: ACTOR DELETE
+[2022.11.13-01.20.49:705][561]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.20.49:756][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.11.13-01.20.49:771][561]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2022.11.13-01.20.55:302][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Stapler_01.SM_Prop_Stapler_01
+[2022.11.13-01.20.55:302][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Stapler_01.SM_Prop_Stapler_01
+[2022.11.13-01.20.55:304][851]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Stapler_01.SM_Prop_Stapler_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_655
+[2022.11.13-01.20.56:027][884]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Stapler_01.SM_Prop_Stapler_01
+[2022.11.13-01.20.56:027][884]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Stapler_01.SM_Prop_Stapler_01
+[2022.11.13-01.20.56:029][884]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Desk/SM_Prop_Stapler_01.SM_Prop_Stapler_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_657
+[2022.11.13-01.21.07:725][466]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.21.07:995][487]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_04.SM_Prop_CardboardBox_04
+[2022.11.13-01.21.07:995][487]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_04.SM_Prop_CardboardBox_04
+[2022.11.13-01.21.07:996][487]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_04.SM_Prop_CardboardBox_04 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_659
+[2022.11.13-01.21.08:148][498]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_04.SM_Prop_CardboardBox_04
+[2022.11.13-01.21.08:148][498]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_04.SM_Prop_CardboardBox_04
+[2022.11.13-01.21.08:149][498]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_04.SM_Prop_CardboardBox_04 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_666
+[2022.11.13-01.21.09:125][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_04.SM_Prop_CardboardBox_04
+[2022.11.13-01.21.09:125][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_04.SM_Prop_CardboardBox_04
+[2022.11.13-01.21.09:126][604]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_04.SM_Prop_CardboardBox_04 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_668
+[2022.11.13-01.21.13:509][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_05.SM_Prop_CardboardBox_05
+[2022.11.13-01.21.13:509][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_05.SM_Prop_CardboardBox_05
+[2022.11.13-01.21.13:511][800]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_05.SM_Prop_CardboardBox_05 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_677
+[2022.11.13-01.21.14:365][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_05.SM_Prop_CardboardBox_05
+[2022.11.13-01.21.14:365][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_05.SM_Prop_CardboardBox_05
+[2022.11.13-01.21.14:366][878]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Misc/SM_Prop_CardboardBox_05.SM_Prop_CardboardBox_05 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_678
+[2022.11.13-01.21.28:706][599]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.22.04:802][ 25]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.22.52:547][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_03.SM_Prop_Shelf_03
+[2022.11.13-01.22.52:547][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_03.SM_Prop_Shelf_03
+[2022.11.13-01.22.52:548][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_03.SM_Prop_Shelf_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_680
+[2022.11.13-01.22.54:414][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_03.SM_Prop_Shelf_03
+[2022.11.13-01.22.54:414][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_03.SM_Prop_Shelf_03
+[2022.11.13-01.22.54:415][676]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_03.SM_Prop_Shelf_03 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_681
+[2022.11.13-01.22.54:600][688]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.11.13-01.23.02:124][279]LogStaticMesh: Display: Building static mesh SM_Prop_Shelf_Wall_01...
+[2022.11.13-01.23.02:124][279]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Shelf_Wall_01.SM_Prop_Shelf_Wall_01
+[2022.11.13-01.23.02:221][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Shelf_Wall_01.SM_Prop_Shelf_Wall_01
+[2022.11.13-01.23.02:221][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Shelf_Wall_01.SM_Prop_Shelf_Wall_01
+[2022.11.13-01.23.02:222][280]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Shelf_Wall_01.SM_Prop_Shelf_Wall_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_682
+[2022.11.13-01.23.03:099][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Shelf_Wall_01.SM_Prop_Shelf_Wall_01
+[2022.11.13-01.23.03:099][354]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Shelf_Wall_01.SM_Prop_Shelf_Wall_01
+[2022.11.13-01.23.03:100][354]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Wall/SM_Prop_Shelf_Wall_01.SM_Prop_Shelf_Wall_01 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_685
+[2022.11.13-01.23.03:801][403]Cmd: DELETE
+[2022.11.13-01.23.03:801][403]Cmd: ACTOR DELETE
+[2022.11.13-01.23.03:827][403]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.13-01.23.03:875][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.11.13-01.23.03:886][403]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2022.11.13-01.23.06:612][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_02.SM_Prop_Shelf_02
+[2022.11.13-01.23.06:612][604]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_02.SM_Prop_Shelf_02
+[2022.11.13-01.23.06:613][604]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_02.SM_Prop_Shelf_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_686
+[2022.11.13-01.23.09:164][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_02.SM_Prop_Shelf_02
+[2022.11.13-01.23.09:164][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_02.SM_Prop_Shelf_02
+[2022.11.13-01.23.09:166][814]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonOffice/Meshes/Props/Furnature/SM_Prop_Shelf_02.SM_Prop_Shelf_02 as actor: StaticMeshActor /Game/PolygonOffice/Maps/StageOne.StageOne:PersistentLevel.StaticMeshActor_687
+[2022.11.13-01.23.12:958][ 62]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.23.22:389][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.11.13-01.23.22:574][ 90]LogSavePackage: Moving output files for package: /Game/PolygonOffice/Maps/StageOne
+[2022.11.13-01.23.22:575][ 90]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/StageOne8724D4414846235C0F2EA3BB6693898E.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/PolygonOffice/Maps/StageOne.umap'
+[2022.11.13-01.23.22:592][ 90]LogFileHelpers: No new changes to save!
+[2022.11.13-01.23.22:608][ 90]AssetCheck: New page: Asset Save: StageOne
+[2022.11.13-01.23.22:608][ 90]LogContentValidation: Display: Validating World /Game/PolygonOffice/Maps/StageOne.StageOne
+[2022.11.13-01.24.02:097][414]LogMaterial: Display: Material /Game/PolygonOffice/Materials/Alts/Mat_PolygonOffice_04_C.Mat_PolygonOffice_04_C needed to have new flag set bUsedWithStaticLighting !
+[2022.11.13-01.24.02:103][414]LogMaterial: Display: Missing cached shadermap for Mat_PolygonOffice_04_C in PCD3D_SM5, Default, SM5 (DDC key hash: 4C2A154836B819DFAD6DF3D2EE27B503624F38DD), compiling. 
+[2022.11.13-01.24.02:186][414]LogShaderCompilers: Display: ================================================
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Total job queries 41, among them cache hits 16 (39.02%)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 12 distinct outputs (75.00%)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Shaders Compiled: 41
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100.00%)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Time job spent in pending queue: average 0.64 s, longest 2.87 s
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Job execution time: average 3.27 s, max 4.57 s
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Job life time (pending + execution): average 3.90 s, max 4.71
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.71 s
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.33 jobs/batch
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Average processing rate: 3.40 jobs/sec
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Effective parallelization: 6.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.12 sec, max 2.12 sec, min 2.12 sec)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 2.09 sec, max 2.09 sec, min 2.09 sec)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 2.07 sec, max 2.07 sec, min 2.07 sec)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 7.45% of total time (compiled    1 times, average 2.12 sec, max 2.12 sec, min 2.12 sec)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 7.40% of total time (compiled    1 times, average 2.11 sec, max 2.11 sec, min 2.11 sec)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.35% of total time (compiled    1 times, average 2.09 sec, max 2.09 sec, min 2.09 sec)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.27% of total time (compiled    1 times, average 2.07 sec, max 2.07 sec, min 2.07 sec)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.02% of total time (compiled    1 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2022.11.13-01.24.02:187][414]LogShaderCompilers: Display: ================================================
+[2022.11.13-01.24.16:398][ 93]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.24.27:378][968]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.25.00:043][245]LogNavigationDataBuild: Navigation data generation finished in /Game/PolygonOffice/Maps/StageOne.
+[2022.11.13-01.25.02:706][533]MapCheck: New page: Map Check
+[2022.11.13-01.25.02:732][533]LightingResults: New page: Lighting Build - Nov 12, 2022, 3:25:02 PM
+[2022.11.13-01.25.02:787][533]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.11.13-01.25.02:862][533]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.11.13-01.25.02:882][533]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.11.13-01.25.03:400][533]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.11.13-01.25.03:401][533]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23248
+[2022.11.13-01.25.09:257][533]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.11.13-01.25.09:260][533]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.11.13-01.25.09:260][533]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.11.13-01.25.09:260][533]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.11.13-01.25.09:260][533]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.11.13-01.25.09:260][533]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.11.13-01.25.09:420][533]LogEditorBuildUtils: Build time 0:06
+[2022.11.13-01.25.09:469][533]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonOffice_03_B in PCD3D_SM5, Default, SM5 (DDC key hash: 86B0CF65E35326424C852BC302FA08AA8A7AC3AA), compiling. 
+[2022.11.13-01.25.09:476][533]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonOffice_03_B in PCD3D_SM5, Default, SM5 (DDC key hash: 8AFEE90A4D6013FD23035A933765E4269B1DB74D), compiling. 
+[2022.11.13-01.25.09:508][534]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonOffice_03_C in PCD3D_SM5, Default, SM5 (DDC key hash: 41B3D88EF90620C2A8A6CADEF0CE89DC51F5FE9B), compiling. 
+[2022.11.13-01.25.09:515][534]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonOffice_03_C in PCD3D_SM5, Default, SM5 (DDC key hash: 171F7BA2EF56EF0A668C6A36D681E151D7CF5D8B), compiling. 
+[2022.11.13-01.25.09:640][535]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonOffice_01_C in PCD3D_SM5, Default, SM5 (DDC key hash: 7FD372CC0F71BBFA339EBE3663299A7F00DA4991), compiling. 
+[2022.11.13-01.25.09:648][535]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Mat_PolygonOffice_01_C in PCD3D_SM5, Default, SM5 (DDC key hash: E9B47A0DE9D46EA1DFC14E24BF28BFCCB754A0C6), compiling. 
