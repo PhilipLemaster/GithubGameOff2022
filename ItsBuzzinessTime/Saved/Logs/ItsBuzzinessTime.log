@@ -2400,3 +2400,290 @@ Max Average Animation Error:
 [2022.11.16-01.26.42:619][250]LogFileHelpers: No new changes to save!
 [2022.11.16-01.26.42:635][250]AssetCheck: New page: Asset Save: StageOne
 [2022.11.16-01.26.42:635][250]LogContentValidation: Display: Validating World /Game/PolygonOffice/Maps/StageOne.StageOne
+[2022.11.16-01.27.48:082][141]LogEditorTransaction: Undo Move Node
+[2022.11.16-01.27.48:158][141]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.16-01.29.34:181][444]LogEditorTransaction: Undo Move Nodes
+[2022.11.16-01.29.34:234][444]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.16-01.29.51:347][449]BlueprintLog: New page: Compile TaskProp_BP
+[2022.11.16-01.29.51:535][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.11.16-01.29.52:062][462]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/TaskProp_BP
+[2022.11.16-01.29.52:062][462]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskProp_BPD7BA29934F73EF5BB1E274A07832E583.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/TaskProp_BP.uasset'
+[2022.11.16-01.29.52:084][462]AssetCheck: New page: Asset Save: TaskProp_BP
+[2022.11.16-01.29.52:084][462]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/TaskProp_BP.TaskProp_BP
+[2022.11.16-01.30.01:449][ 21]BlueprintLog: New page: Compile TaskProp_BP
+[2022.11.16-01.30.01:615][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.16-01.30.01:970][ 22]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/TaskProp_BP
+[2022.11.16-01.30.01:971][ 22]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskProp_BPF6AE4A854642E7849FDCACBB3503A377.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/TaskProp_BP.uasset'
+[2022.11.16-01.30.01:995][ 22]AssetCheck: New page: Asset Save: TaskProp_BP
+[2022.11.16-01.30.01:995][ 22]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/TaskProp_BP.TaskProp_BP
+[2022.11.16-01.30.19:827][ 88]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.30.19:827][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.30.21:060][158]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.16-01.30.21:060][158]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.30.21:061][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.30.21:543][183]LogViewport: Scene viewport resized to 971x639, mode Windowed.
+[2022.11.16-01.31.12:031][164]BlueprintLog: New page: Compile TaskPropMissionRecipient_BP
+[2022.11.16-01.31.12:177][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.11.16-01.31.12:579][180]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP
+[2022.11.16-01.31.12:580][180]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskPropMissionRecipient_BP57F069914C035979F9FC3EB7FCB5446E.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP.uasset'
+[2022.11.16-01.31.12:595][180]AssetCheck: New page: Asset Save: TaskPropMissionRecipient_BP
+[2022.11.16-01.31.12:595][180]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP.TaskPropMissionRecipient_BP
+[2022.11.16-01.31.16:262][398]LogEditorTransaction: Undo Move Node
+[2022.11.16-01.31.16:285][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.16-01.31.19:522][578]BlueprintLog: New page: Compile TaskPropMissionRecipient_BP
+[2022.11.16-01.31.19:627][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.16-01.31.20:046][596]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP
+[2022.11.16-01.31.20:046][596]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskPropMissionRecipient_BPFF0E0F624852983F5F012DAA147C75DA.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP.uasset'
+[2022.11.16-01.31.20:061][596]AssetCheck: New page: Asset Save: TaskPropMissionRecipient_BP
+[2022.11.16-01.31.20:061][596]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP.TaskPropMissionRecipient_BP
+[2022.11.16-01.31.46:443][176]BlueprintLog: New page: Compile TaskPropMissionRecipient_BP
+[2022.11.16-01.31.46:542][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.11.16-01.31.46:917][192]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP
+[2022.11.16-01.31.46:918][192]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskPropMissionRecipient_BP8BB83640473BD6B94B134D93C9D25720.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP.uasset'
+[2022.11.16-01.31.46:933][192]AssetCheck: New page: Asset Save: TaskPropMissionRecipient_BP
+[2022.11.16-01.31.46:933][192]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP.TaskPropMissionRecipient_BP
+[2022.11.16-01.32.09:152][522]BlueprintLog: New page: Compile TaskPropMissionRecipient_BP
+[2022.11.16-01.32.09:250][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.16-01.32.09:607][537]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP
+[2022.11.16-01.32.09:607][537]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskPropMissionRecipient_BPDBB5E6214EC8F1D69E229AB66187E06B.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP.uasset'
+[2022.11.16-01.32.09:621][537]AssetCheck: New page: Asset Save: TaskPropMissionRecipient_BP
+[2022.11.16-01.32.09:621][537]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP.TaskPropMissionRecipient_BP
+[2022.11.16-01.32.13:259][755]BlueprintLog: New page: Compile TaskPropMissionRecipient_BP
+[2022.11.16-01.32.13:354][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.16-01.32.13:726][770]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP
+[2022.11.16-01.32.13:727][770]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskPropMissionRecipient_BPE602724B41C0E6E3D24E5889DE28F3F1.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP.uasset'
+[2022.11.16-01.32.13:742][770]AssetCheck: New page: Asset Save: TaskPropMissionRecipient_BP
+[2022.11.16-01.32.13:742][770]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/Mission/TaskPropMissionRecipient_BP.TaskPropMissionRecipient_BP
+[2022.11.16-01.32.18:117][ 23]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.16-01.32.18:117][ 23]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.32.18:117][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.34.23:582][400]BlueprintLog: New page: Compile TaskProp_BP
+[2022.11.16-01.34.23:742][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.16-01.34.24:090][402]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/TaskProp_BP
+[2022.11.16-01.34.24:090][402]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskProp_BPAC70EC45474591854931D2874ED32B02.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/TaskProp_BP.uasset'
+[2022.11.16-01.34.24:106][402]AssetCheck: New page: Asset Save: TaskProp_BP
+[2022.11.16-01.34.24:106][402]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/TaskProp_BP.TaskProp_BP
+[2022.11.16-01.35.12:027][257]BlueprintLog: New page: Compile TaskProp_BP
+[2022.11.16-01.35.12:159][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.11.16-01.35.12:671][269]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/TaskProp_BP
+[2022.11.16-01.35.12:672][269]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskProp_BP4F877AE349B48C8E07FE8DBF978A23B3.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/TaskProp_BP.uasset'
+[2022.11.16-01.35.12:688][269]AssetCheck: New page: Asset Save: TaskProp_BP
+[2022.11.16-01.35.12:688][269]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/TaskProp_BP.TaskProp_BP
+[2022.11.16-01.35.19:068][652]BlueprintLog: New page: Compile TaskProp_BP
+[2022.11.16-01.35.19:197][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.11.16-01.35.19:721][664]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/TaskProp_BP
+[2022.11.16-01.35.19:722][664]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskProp_BPF6DD8177416293965E7343AE3551C5B6.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/TaskProp_BP.uasset'
+[2022.11.16-01.35.19:738][664]AssetCheck: New page: Asset Save: TaskProp_BP
+[2022.11.16-01.35.19:739][664]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/TaskProp_BP.TaskProp_BP
+[2022.11.16-01.35.43:998][109]BlueprintLog: New page: Compile TaskProp_BP
+[2022.11.16-01.35.44:127][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.11.16-01.35.44:574][117]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/TaskProp_BP
+[2022.11.16-01.35.44:574][117]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskProp_BP2E0D613746DDEB2D6436F19863E45258.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/TaskProp_BP.uasset'
+[2022.11.16-01.35.44:591][117]AssetCheck: New page: Asset Save: TaskProp_BP
+[2022.11.16-01.35.44:591][117]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/TaskProp_BP.TaskProp_BP
+[2022.11.16-01.35.45:283][159]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.16-01.35.45:289][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-01.35.45:289][159]PIE: New page: PIE session: StageOne (Nov 15, 2022, 3:35:45 PM)
+[2022.11.16-01.35.45:289][159]LogPlayLevel: Creating play world package: /Game/PolygonOffice/Maps/UEDPIE_0_StageOne
+[2022.11.16-01.35.45:362][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071919s)
+[2022.11.16-01.35.45:362][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PolygonOffice/Maps/StageOne.StageOne to /Game/PolygonOffice/Maps/UEDPIE_0_StageOne.StageOne (0.071993s)
+[2022.11.16-01.35.45:362][159]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.16-01.35.45:362][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.35.45:362][159]LogAIModule: Creating AISystem for world StageOne
+[2022.11.16-01.35.45:363][159]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2022.11.16-01.35.45:408][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.16-01.35.45:418][159]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.11.16-01.35.45:418][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-01.35.45:418][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-01.35.45:418][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-01.35.45:418][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-01.35.45:418][159]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-01.35.45:418][159]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.16-01.35.45:418][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-01.35.45:418][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-01.35.45:418][159]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.16-01.35.45:418][159]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.16-01.35.45:418][159]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.16-01.35.45:420][159]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.16-01.35.45:466][159]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.16-01.35.45:468][159]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-01.35.45:468][159]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-01.35.45:468][159]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-01.35.45:469][159]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.11.16-01.35.45:469][159]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2022.11.16-01.35.45:470][159]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.11.16-01.35.45:470][159]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.11.16-01.35.45:470][159]LogInit: FAudioDevice initialized.
+[2022.11.16-01.35.45:470][159]LogAudio: Display: Audio Device (ID: 19) registered with world 'StageOne'.
+[2022.11.16-01.35.45:516][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-01.35.45:516][159]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.11.16-01.35.45:553][159]LogWorld: Bringing World /Game/PolygonOffice/Maps/UEDPIE_0_StageOne.StageOne up for play (max tick rate 60) at 2022.11.15-20.35.45
+[2022.11.16-01.35.45:554][159]LogWorld: Bringing up level for play took: 0.037598
+[2022.11.16-01.35.45:556][159]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2022.11.16-01.35.45:569][159]PIE: Server logged in
+[2022.11.16-01.35.45:576][159]PIE: Play in editor total start time 0.286 seconds.
+[2022.11.16-01.35.45:598][159]LogViewport: Scene viewport resized to 1913x970, mode Windowed.
+[2022.11.16-01.35.57:301][795]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2022.11.16-01.35.58:017][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-01.35.58:017][833]LogWorld: BeginTearingDown for /Game/PolygonOffice/Maps/UEDPIE_0_StageOne
+[2022.11.16-01.35.58:017][833]LogSlate: Window 'ItsBuzzinessTime Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.16-01.35.58:028][833]LogWorld: UWorld::CleanupWorld for StageOne, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.35.58:035][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.35.58:054][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-01.35.58:063][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.35.58:119][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-01.35.58:120][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.11.16-01.35.58:122][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.11.16-01.35.58:144][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.11.16-01.35.58:179][834]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.11.16-01.36.37:707][201]LogEditorTransaction: Undo Move Nodes
+[2022.11.16-01.36.37:767][201]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.16-01.36.38:358][219]LogEditorTransaction: Undo Delete current selection
+[2022.11.16-01.36.38:421][219]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.16-01.36.39:065][244]LogEditorTransaction: Undo Delete current selection
+[2022.11.16-01.36.39:134][244]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.16-01.38.11:154][654]BlueprintLog: New page: Compile TaskProp_BP
+[2022.11.16-01.38.11:283][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.16-01.38.11:805][666]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/TaskProp_BP
+[2022.11.16-01.38.11:806][666]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskProp_BPB500593E40FBCCD05CF149A6442629A7.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/TaskProp_BP.uasset'
+[2022.11.16-01.38.11:823][666]AssetCheck: New page: Asset Save: TaskProp_BP
+[2022.11.16-01.38.11:823][666]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/TaskProp_BP.TaskProp_BP
+[2022.11.16-01.38.12:775][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.16-01.38.12:782][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-01.38.12:782][722]PIE: New page: PIE session: StageOne (Nov 15, 2022, 3:38:12 PM)
+[2022.11.16-01.38.12:782][722]LogPlayLevel: Creating play world package: /Game/PolygonOffice/Maps/UEDPIE_0_StageOne
+[2022.11.16-01.38.12:862][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080619s)
+[2022.11.16-01.38.12:862][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PolygonOffice/Maps/StageOne.StageOne to /Game/PolygonOffice/Maps/UEDPIE_0_StageOne.StageOne (0.080697s)
+[2022.11.16-01.38.12:862][722]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.16-01.38.12:862][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.38.12:863][722]LogAIModule: Creating AISystem for world StageOne
+[2022.11.16-01.38.12:863][722]LogPlayLevel: PIE: World Init took: (0.001344s)
+[2022.11.16-01.38.12:911][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.16-01.38.12:922][722]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.11.16-01.38.12:922][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-01.38.12:922][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-01.38.12:922][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-01.38.12:922][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-01.38.12:922][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-01.38.12:922][722]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.16-01.38.12:922][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-01.38.12:922][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-01.38.12:923][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.16-01.38.12:923][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.16-01.38.12:923][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.16-01.38.12:925][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.16-01.38.12:970][722]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.16-01.38.12:971][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-01.38.12:971][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-01.38.12:971][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-01.38.12:972][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2022.11.16-01.38.12:972][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2022.11.16-01.38.12:973][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2022.11.16-01.38.12:973][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2022.11.16-01.38.12:973][722]LogInit: FAudioDevice initialized.
+[2022.11.16-01.38.12:973][722]LogAudio: Display: Audio Device (ID: 20) registered with world 'StageOne'.
+[2022.11.16-01.38.13:017][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-01.38.13:017][722]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.11.16-01.38.13:052][722]LogWorld: Bringing World /Game/PolygonOffice/Maps/UEDPIE_0_StageOne.StageOne up for play (max tick rate 60) at 2022.11.15-20.38.13
+[2022.11.16-01.38.13:053][722]LogWorld: Bringing up level for play took: 0.035285
+[2022.11.16-01.38.13:056][722]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2022.11.16-01.38.13:068][722]PIE: Server logged in
+[2022.11.16-01.38.13:075][722]PIE: Play in editor total start time 0.293 seconds.
+[2022.11.16-01.38.13:096][722]LogViewport: Scene viewport resized to 1913x970, mode Windowed.
+[2022.11.16-01.38.24:785][350]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2022.11.16-01.38.27:790][512]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2022.11.16-01.38.29:287][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-01.38.29:287][591]LogWorld: BeginTearingDown for /Game/PolygonOffice/Maps/UEDPIE_0_StageOne
+[2022.11.16-01.38.29:287][591]LogSlate: Window 'ItsBuzzinessTime Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.16-01.38.29:294][591]LogWorld: UWorld::CleanupWorld for StageOne, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.38.29:302][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.38.29:317][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-01.38.29:328][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.38.29:381][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-01.38.29:382][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.11.16-01.38.29:384][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.11.16-01.38.29:406][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.11.16-01.38.29:439][592]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.11.16-01.38.44:528][485]LogEditorTransaction: Undo Break Pin Links
+[2022.11.16-01.38.44:584][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.16-01.38.45:169][500]LogEditorTransaction: Undo Break Pin Links
+[2022.11.16-01.38.45:233][500]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.16-01.38.48:697][688]BlueprintLog: New page: Compile TaskProp_BP
+[2022.11.16-01.38.48:831][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.11.16-01.38.49:293][696]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/TaskProp_BP
+[2022.11.16-01.38.49:294][696]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskProp_BP7C7842854E5B1CFC80D801BC42A403D9.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/TaskProp_BP.uasset'
+[2022.11.16-01.38.49:311][696]AssetCheck: New page: Asset Save: TaskProp_BP
+[2022.11.16-01.38.49:311][696]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/TaskProp_BP.TaskProp_BP
+[2022.11.16-01.38.49:886][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.16-01.38.49:893][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.16-01.38.49:893][731]PIE: New page: PIE session: StageOne (Nov 15, 2022, 3:38:49 PM)
+[2022.11.16-01.38.49:893][731]LogPlayLevel: Creating play world package: /Game/PolygonOffice/Maps/UEDPIE_0_StageOne
+[2022.11.16-01.38.49:973][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079672s)
+[2022.11.16-01.38.49:973][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PolygonOffice/Maps/StageOne.StageOne to /Game/PolygonOffice/Maps/UEDPIE_0_StageOne.StageOne (0.079747s)
+[2022.11.16-01.38.49:973][731]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.16-01.38.49:973][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.16-01.38.49:974][731]LogAIModule: Creating AISystem for world StageOne
+[2022.11.16-01.38.49:974][731]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2022.11.16-01.38.50:021][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.16-01.38.50:031][731]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.11.16-01.38.50:031][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.16-01.38.50:031][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.16-01.38.50:031][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.16-01.38.50:031][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.16-01.38.50:031][731]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.16-01.38.50:031][731]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.16-01.38.50:031][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.16-01.38.50:031][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.16-01.38.50:032][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.16-01.38.50:032][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.16-01.38.50:032][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.16-01.38.50:034][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.16-01.38.50:080][731]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.16-01.38.50:080][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.16-01.38.50:080][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.16-01.38.50:080][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.16-01.38.50:080][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2022.11.16-01.38.50:081][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2022.11.16-01.38.50:082][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2022.11.16-01.38.50:082][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2022.11.16-01.38.50:082][731]LogInit: FAudioDevice initialized.
+[2022.11.16-01.38.50:082][731]LogAudio: Display: Audio Device (ID: 21) registered with world 'StageOne'.
+[2022.11.16-01.38.50:126][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-01.38.50:126][731]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.11.16-01.38.50:160][731]LogWorld: Bringing World /Game/PolygonOffice/Maps/UEDPIE_0_StageOne.StageOne up for play (max tick rate 60) at 2022.11.15-20.38.50
+[2022.11.16-01.38.50:161][731]LogWorld: Bringing up level for play took: 0.034719
+[2022.11.16-01.38.50:163][731]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2022.11.16-01.38.50:175][731]PIE: Server logged in
+[2022.11.16-01.38.50:181][731]PIE: Play in editor total start time 0.289 seconds.
+[2022.11.16-01.38.50:202][731]LogViewport: Scene viewport resized to 1913x970, mode Windowed.
+[2022.11.16-01.39.01:900][367]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2022.11.16-01.39.04:894][528]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2022.11.16-01.39.06:169][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.16-01.39.06:170][596]LogWorld: BeginTearingDown for /Game/PolygonOffice/Maps/UEDPIE_0_StageOne
+[2022.11.16-01.39.06:170][596]LogSlate: Window 'ItsBuzzinessTime Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.16-01.39.06:182][596]LogWorld: UWorld::CleanupWorld for StageOne, bSessionEnded=true, bCleanupResources=true
+[2022.11.16-01.39.06:189][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.39.06:207][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.16-01.39.06:217][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.16-01.39.06:274][596]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.16-01.39.06:274][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.11.16-01.39.06:276][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.11.16-01.39.06:299][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.11.16-01.39.06:332][597]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.11.16-01.39.17:944][293]BlueprintLog: New page: Compile TaskProp_BP
+[2022.11.16-01.39.18:076][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.16-01.39.18:531][300]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/TaskProp_BP
+[2022.11.16-01.39.18:532][300]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/TaskProp_BP47CD16694ED62F9F5CDBC1BB89A2E2E0.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/TaskProp_BP.uasset'
+[2022.11.16-01.39.18:549][300]AssetCheck: New page: Asset Save: TaskProp_BP
+[2022.11.16-01.39.18:549][300]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/TaskProp_BP.TaskProp_BP
+[2022.11.16-01.39.21:092][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.16-01.39.21:208][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.11.16-01.39.21:451][449]LogSavePackage: Moving output files for package: /Game/PolygonOffice/Maps/StageOne
+[2022.11.16-01.39.21:452][449]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/StageOneD5FDD76B4150AD827A050AA9DA90CCFE.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/PolygonOffice/Maps/StageOne.umap'
+[2022.11.16-01.39.21:466][449]LogFileHelpers: No new changes to save!
+[2022.11.16-01.39.21:466][449]LogFileHelpers: Saving map 'StageOne' took 0.301
+[2022.11.16-01.39.21:471][449]LogSavePackage: Moving output files for package: /Game/Tasks/Blueprints/Mission/BringVCRToStorage_BP
+[2022.11.16-01.39.21:472][449]LogSavePackage: Moving '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Saved/BringVCRToStorage_BPA7140120473E614024D4818AE2831F35.tmp' to '../../../../../../Users/Philip/Documents/Unreal Projects/GithubGameOff2022/ItsBuzzinessTime/Content/Tasks/Blueprints/Mission/BringVCRToStorage_BP.uasset'
+[2022.11.16-01.39.21:487][449]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.16-01.39.21:487][449]LogContentValidation: Display: Validating World /Game/PolygonOffice/Maps/StageOne.StageOne
+[2022.11.16-01.39.21:487][449]LogContentValidation: Display: Validating Blueprint /Game/Tasks/Blueprints/Mission/BringVCRToStorage_BP.BringVCRToStorage_BP
