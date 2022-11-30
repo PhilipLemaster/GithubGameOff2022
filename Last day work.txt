@@ -1,6 +1,7 @@
-Fix computer virus task
-Distribute Donuts to sales staff
-AI Walking around
+Fix computer virus task **** DONE ****
+Distribute Donuts to sales staff **** DONE ****
+AI Walking around **** DONE ****
 UI screen with brief tutorial screen w/controls
-Day counter with UI
-Boosts between days?
+Day counter with UI **** DONE ****
+Percentage of tasks completed screen with end day UI **** DONE ****
+Boosts between days? **** NOT DOING ****
